@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet implémente un système de classification d'intentions basé sur le NLP pour détecter les demandes de trajets ferroviaires. Le modèle distingue les requêtes de trajectoires pures des autres types de requêtes liées aux voyages (horaires, billets, prix).
+Ce projet implémente un système de classification d'intentions basé sur le NLP pour détecter les demandes de trajets. Le modèle distingue les requêtes de trajectoires pures des autres types de requêtes liées aux voyages (horaires, billets, prix).
 
 ## Objectif
 
