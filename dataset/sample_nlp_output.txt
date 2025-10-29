@@ -1,0 +1,7 @@
+Example negative outputs (format sentenceID,Code):
+1,NOT_FRENCH
+2,UNKNOWN
+3,NOT_TRIP
+
+Example trip output (format sentenceID,Departure,Destination):
+4,Toulouse,Paris

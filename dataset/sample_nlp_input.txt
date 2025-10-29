@@ -1,0 +1,50 @@
+1,Je voudrais un alle simple de Saint-Étienne à Cannes
+2,Départ: Lille Destination: Gap
+3,Je suis interesse par vos services, quelles sont vos offres ?
+4,pouvez-vous m'envoyer le rapport trimestriel ?
+5,bla bla
+6,aller voir
+7,A quelle heure y a-t-il des trains de Dunkerque à Clermont-Ferrand 
+8,This is not french text.
+9,y a-t-il un train bordeaux-saint-jean-hayange ?
+10,Est-ce que le bureau est ouvert le samedi ?
+11,A quelle heure y a-t-il des traisn de Lorraine à Sarreguemines ?
+12,Merci pour la confirmation de la réunion
+13,Est-ce que le bureau est ouvert le samedi ?
+14,ceci est un message automatique : ne pas répondre.
+15,je pars de poitiers et je vais à angoulême
+16,Aller de Besancon vers Chambéry.
+17,ptdr
+18,Bonjour, je veux un billet pour aller de Amiens à Rouen
+19,felicitations pour votre promotion !
+20,Ceci n'a rien à vior avec des voyages, juste une quesion administrative.
+21,je voudrais un aller simple de cannes à vannes
+22,Y a-t-il un train Toulouse-Valence ?
+23,Je souhaite me rendre à Biarritz depuis Grenoble
+24,lba bla
+25,Où est la salle de conférence ?
+26,Trains entre Lorraine et Évry
+27,Ticket please from Rome to Milan.
+28,départ: rouen destination: amiens
+29,Ceci n'a rien à voir avec des voyages, juste une question administrative.
+30,Billet Chartres Montpellier
+31,Je veux aller de Annecy à Marseille.
+32,Je prs de Lille et je vais à Pau
+33,aller de beauvais vers le mans.
+34,bla bla
+35,y a-t-il un train bordeaux-montpellier ?
+36,Ceci n'a rien à voir avec des voyages, juste une questio administrative.
+37,je pars de lille et je avis à caen
+38,Can you book a train from Berlin to Munich?
+39,Lourdes -> Angers
+40,Je pars de Colmar et je vais à Blois
+41,Trains entr Bordeaux et Nîmes
+42,Je souhaite me rendre a Annecy depui Evry.
+43,bla bla
+44,Trains entre Lyon et Albert
+45,Je veux aller de Bordeaux a Besancon.
+46,je veux aller voir mon ami à albi en partant de montpellier
+47,Je pars de Biarritz et je vais à Sète
+48,Peux-tu me réserver un trajet Marseille - Annecy ?
+49,Aller de Lyon vers Orléans.
+50,Ou est la salle de conference ?

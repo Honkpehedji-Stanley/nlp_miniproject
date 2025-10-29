@@ -1,0 +1,2001 @@
+text,intent,entities
+zzz,UNKNOWN,[]
+Le Mans - Djougou,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+Combien coûte Limoges - Rouen,NOT_TRIP,[]
+Réservation Aix-en-Provence → Montpellier,NOT_TRIP,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Le Havre Comè,NOT_TRIP,[]
+Horaires de train Dijon - Malanville,NOT_TRIP,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Je me déplace la semaine prochaine de Savé à Besançon,TRIP,"[{""start"": 38, ""end"": 42, ""label"": ""Departure""}, {""start"": 45, ""end"": 53, ""label"": ""Destination""}]"
+Comment commander un billet Nantes Ouidah,NOT_TRIP,[]
+Je désire un trajet de Lyon à Djougou,TRIP,"[{""start"": 23, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 37, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Y a-t-il encore de la place Kétou - Nikki,NOT_TRIP,[]
+de Montreuil vers Djougou,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 18, ""end"": 25, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Allada vers Saint-Étienne,TRIP,"[{""start"": 41, ""end"": 47, ""label"": ""Departure""}, {""start"": 53, ""end"": 66, ""label"": ""Destination""}]"
+Trajet de Sakété à Pobè pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+Je dois aller de Marseille à Kandi pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 34, ""label"": ""Destination""}]"
+Je vais de Reims à Bassila pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 26, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+grrr,UNKNOWN,[]
+Je dois me rendre de Comè à Porto-Novo,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 38, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+qsdfghjklm,UNKNOWN,[]
+Y a-t-il encore de la place Besançon - Saint-Denis,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+Trajet de Sakété à Le Mans pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 26, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Kandi à Nice,NOT_TRIP,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Boulogne-Billancourt / Sakété,TRIP,"[{""start"": 0, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 29, ""label"": ""Destination""}]"
+Je pars demain de Metz à Savé,TRIP,"[{""start"": 18, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 29, ""label"": ""Destination""}]"
+Il faut que j'aille de Amiens à Perpignan,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 41, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Pobè Parakou,NOT_TRIP,[]
+Montpellier - Savé,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 18, ""label"": ""Destination""}]"
+Réservation Brest → Limoges,NOT_TRIP,[]
+Je voudrais réserver Dijon Lille,NOT_TRIP,[]
+Je souhaite me déplacer de Strasbourg à Abomey,TRIP,"[{""start"": 27, ""end"": 37, ""label"": ""Departure""}, {""start"": 40, ""end"": 46, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+Je veux un billet Cotonou Aix-en-Provence,NOT_TRIP,[]
+Pouvez-vous me trouver un train de Ouidah à Malanville,NOT_TRIP,[]
+Tours - Montpellier,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 19, ""label"": ""Destination""}]"
+Je rentre à Metz depuis Bassila,TRIP,"[{""start"": 24, ""end"": 31, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+azertyuiop,UNKNOWN,[]
+Trajet de Boulogne-Billancourt à Saint-Denis pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 44, ""label"": ""Destination""}]"
+J'aimerais aller de Angers à Lyon,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 33, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Comment commander un billet Nice Toulouse,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Saint-Denis vers Bordeaux,TRIP,"[{""start"": 31, ""end"": 42, ""label"": ""Departure""}, {""start"": 48, ""end"": 56, ""label"": ""Destination""}]"
+Merci pour votre aide,NOT_TRIP,[]
+Je désire un trajet de Montreuil à Boulogne-Billancourt,TRIP,"[{""start"": 23, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 55, ""label"": ""Destination""}]"
+Necesito ir a Sevilla,NOT_FRENCH,[]
+A che ora parte il treno?,NOT_FRENCH,[]
+Je vais de Parakou à Clermont-Ferrand pour affaires,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 37, ""label"": ""Destination""}]"
+¿A qué hora sale el tren?,NOT_FRENCH,[]
+J'aimerais aller de Ouidah à Natitingou,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 39, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+I would like a ticket to Manchester,NOT_FRENCH,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+"Hello, how are you?",NOT_FRENCH,[]
+Est-ce que je peux réserver pour Rouen Parakou,NOT_TRIP,[]
+Je voyage ce soir de Nantes vers Lokossa,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 33, ""end"": 40, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Il faut que j'aille de Toulon à Rouen,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 37, ""label"": ""Destination""}]"
+Goedemorgen,NOT_FRENCH,[]
+Pouvez-vous me trouver un train de Toulon à Limoges,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+uzww,UNKNOWN,[]
+Je souhaite obtenir un billet Djougou - Kandi,NOT_TRIP,[]
+Goedemorgen,NOT_FRENCH,[]
+Trajet Pobè → Parakou,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 21, ""label"": ""Destination""}]"
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Je souhaite obtenir mon trajet Nancy vers Limoges,TRIP,"[{""start"": 31, ""end"": 36, ""label"": ""Departure""}, {""start"": 42, ""end"": 49, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Je voudrais réserver Rouen Le Mans,NOT_TRIP,[]
+Je dois me rendre de Lokossa à Bordeaux,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 39, ""label"": ""Destination""}]"
+Aller de Lyon vers Caen,TRIP,"[{""start"": 9, ""end"": 13, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+C'è un treno per Roma?,NOT_FRENCH,[]
+Pourrais-je avoir un trajet Lokossa - Mulhouse,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+Trajet de Malanville à Clermont-Ferrand pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 39, ""label"": ""Destination""}]"
+...,UNKNOWN,[]
+depuis Savé jusqu'à Parakou,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 27, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Vorrei un biglietto per Milano,NOT_FRENCH,[]
+Trajet de Grenoble à Boulogne-Billancourt pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 41, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Nice vers Bassila,TRIP,"[{""start"": 41, ""end"": 45, ""label"": ""Departure""}, {""start"": 51, ""end"": 58, ""label"": ""Destination""}]"
+Necesito ir a Sevilla,NOT_FRENCH,[]
+I would like a ticket to Manchester,NOT_FRENCH,[]
+"Hello, how are you?",NOT_FRENCH,[]
+De Rennes jusqu'à Allada,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 18, ""end"": 24, ""label"": ""Destination""}]"
+Je vais de Perpignan à Nancy pour affaires,TRIP,"[{""start"": 11, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+oklm,UNKNOWN,[]
+zzz,UNKNOWN,[]
+C'est possible d'aller de Le Havre à Reims,TRIP,"[{""start"": 26, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 42, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Lille Lokossa,NOT_TRIP,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+???,UNKNOWN,[]
+Il reste des places pour Caen Pobè,NOT_TRIP,[]
+Billet de Nîmes à Lille,NOT_TRIP,[]
+Je dois me rendre de Lokossa à Paris,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Djougou Saint-Étienne,NOT_TRIP,[]
+de Boulogne-Billancourt à Strasbourg,TRIP,"[{""start"": 3, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 36, ""label"": ""Destination""}]"
+J'aimerais une réservation Bordeaux - Montreuil,NOT_TRIP,[]
+Je souhaite me déplacer de Toulouse à Bordeaux,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+J'aimerais aller de Nice à Porto-Novo,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 37, ""label"": ""Destination""}]"
+Je veux aller de Limoges à Amiens,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 33, ""label"": ""Destination""}]"
+J'aimerais aller de Kétou à Nikki,TRIP,"[{""start"": 20, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 33, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Bohicon à Brest,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 42, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Tarifs pour Allada Reims,NOT_TRIP,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Il faut que j'aille de Boulogne-Billancourt à Tours,TRIP,"[{""start"": 23, ""end"": 43, ""label"": ""Departure""}, {""start"": 46, ""end"": 51, ""label"": ""Destination""}]"
+Pobè - Nancy,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 12, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Porto-Novo - Natitingou,NOT_TRIP,[]
+Pouvez-vous me trouver un train de Brest à Saint-Denis,NOT_TRIP,[]
+Je pars de Comè vers Perpignan pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 30, ""label"": ""Destination""}]"
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+!!!???,UNKNOWN,[]
+Y a-t-il un train Nice-Comè,NOT_TRIP,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Je voyage ce soir de Montreuil vers Toulouse,TRIP,"[{""start"": 21, ""end"": 30, ""label"": ""Departure""}, {""start"": 36, ""end"": 44, ""label"": ""Destination""}]"
+Je rentre à Bohicon depuis Abomey,TRIP,"[{""start"": 27, ""end"": 33, ""label"": ""Departure""}, {""start"": 12, ""end"": 19, ""label"": ""Destination""}]"
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Trajet Rouen → Ouidah,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 21, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Quels sont les horaires de train pour Ouidah Grenoble,NOT_TRIP,[]
+Je dois me rendre de Angers à Limoges,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 37, ""label"": ""Destination""}]"
+oklm,UNKNOWN,[]
+!!!???,UNKNOWN,[]
+Grenoble - Lokossa,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 18, ""label"": ""Destination""}]"
+de Sakété vers Nikki,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 15, ""end"": 20, ""label"": ""Destination""}]"
+Quels sont les horaires Lille Pobè,NOT_TRIP,[]
+Un billet pour Argenteuil Rouen,NOT_TRIP,[]
+bla bla bla,UNKNOWN,[]
+xD xD xD,UNKNOWN,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Is there a train to London?,NOT_FRENCH,[]
+Pouvez-vous me trouver un train de Kétou à Malanville,NOT_TRIP,[]
+Trajet de Kandi à Bohicon pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 25, ""label"": ""Destination""}]"
+Quero um bilhete para Porto,NOT_FRENCH,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Montpellier - Comè,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 18, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Lokossa Perpignan,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 36, ""end"": 45, ""label"": ""Destination""}]"
+Tarifs pour Saint-Denis Aix-en-Provence,NOT_TRIP,[]
+Je désire un trajet de Pobè à Bohicon,TRIP,"[{""start"": 23, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 37, ""label"": ""Destination""}]"
+Je voyage ce soir de Marseille vers Cotonou,TRIP,"[{""start"": 21, ""end"": 30, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+I need to go to Birmingham,NOT_FRENCH,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Je compte partir de Pobè vers Brest,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Billet de Le Havre à Argenteuil,NOT_TRIP,[]
+J'aimerais aller de Amiens à Saint-Denis,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 40, ""label"": ""Destination""}]"
+de Pobè à Aix-en-Provence,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 25, ""label"": ""Destination""}]"
+Je rentre à Montreuil depuis Toulon,TRIP,"[{""start"": 29, ""end"": 35, ""label"": ""Departure""}, {""start"": 12, ""end"": 21, ""label"": ""Destination""}]"
+Horarios de tren por favor,NOT_FRENCH,[]
+Trajet de Saint-Denis à Nantes pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 30, ""label"": ""Destination""}]"
+Thank you very much,NOT_FRENCH,[]
+Perpignan Annecy,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Comment prendre un billet Savé Nice,NOT_TRIP,[]
+Aller de Paris vers Pobè,TRIP,"[{""start"": 9, ""end"": 14, ""label"": ""Departure""}, {""start"": 20, ""end"": 24, ""label"": ""Destination""}]"
+Quels sont les horaires de train pour Comè Rouen,NOT_TRIP,[]
+wxcvbn,UNKNOWN,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Tarifs pour Lyon Kétou,NOT_TRIP,[]
+Je rentre à Comè depuis Orléans,TRIP,"[{""start"": 24, ""end"": 31, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Horaires de train Lyon - Brest,NOT_TRIP,[]
+Pourrais-je avoir un trajet Paris - Rouen,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 41, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+qsdfghjklm,UNKNOWN,[]
+Comment aller de Reims à Ouidah,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+Quels sont les horaires de train pour Nîmes Natitingou,NOT_TRIP,[]
+de Tours à Savé,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 15, ""label"": ""Destination""}]"
+Un billet pour Malanville Porto-Novo,NOT_TRIP,[]
+Réservation Savé → Tours,NOT_TRIP,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Comment prendre un billet Grenoble Porto-Novo,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Reims vers Limoges,TRIP,"[{""start"": 31, ""end"": 36, ""label"": ""Departure""}, {""start"": 42, ""end"": 49, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Réservation Boulogne-Billancourt → Abomey,NOT_TRIP,[]
+Quels trains sont disponibles de Allada à Aix-en-Provence,NOT_TRIP,[]
+Kétou - Montpellier,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 19, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+Guten Tag,NOT_FRENCH,[]
+Pouvez-vous me donner les horaires Lille Nice,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Pobè Nikki,NOT_TRIP,[]
+Départ: Saint-Étienne Destination: Nantes,TRIP,"[{""start"": 8, ""end"": 21, ""label"": ""Departure""}, {""start"": 35, ""end"": 41, ""label"": ""Destination""}]"
+Je vais à Strasbourg depuis Savé cet après-midi,TRIP,"[{""start"": 28, ""end"": 32, ""label"": ""Departure""}, {""start"": 10, ""end"": 20, ""label"": ""Destination""}]"
+Je voudrais réserver Le Havre Bassila,NOT_TRIP,[]
+Savé / Kandi,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 12, ""label"": ""Destination""}]"
+Je vais à Savé depuis Tchaourou cet après-midi,TRIP,"[{""start"": 22, ""end"": 31, ""label"": ""Departure""}, {""start"": 10, ""end"": 14, ""label"": ""Destination""}]"
+Je veux aller de Montpellier à Montreuil,TRIP,"[{""start"": 17, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 40, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Y a-t-il un train Pobè-Saint-Denis,NOT_TRIP,[]
+Je veux aller de Annecy à Comè,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 30, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+iiii,UNKNOWN,[]
+De Marseille jusqu'à Bohicon,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 28, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Cotonou à Clermont-Ferrand,TRIP,"[{""start"": 38, ""end"": 45, ""label"": ""Departure""}, {""start"": 48, ""end"": 64, ""label"": ""Destination""}]"
+Je pars de Boulogne-Billancourt vers Annecy pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 31, ""label"": ""Departure""}, {""start"": 37, ""end"": 43, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Savé Rennes,TRIP,"[{""start"": 44, ""end"": 48, ""label"": ""Departure""}, {""start"": 49, ""end"": 55, ""label"": ""Destination""}]"
+De Kandi jusqu'à Ouidah,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 17, ""end"": 23, ""label"": ""Destination""}]"
+A que horas sai o comboio?,NOT_FRENCH,[]
+Y a-t-il encore de la place Djougou - Bohicon,NOT_TRIP,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Je pars de Cotonou vers Djougou pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 24, ""end"": 31, ""label"": ""Destination""}]"
+Can you help me find a train?,NOT_FRENCH,[]
+Je dois me rendre de Allada à Toulouse,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 38, ""label"": ""Destination""}]"
+Je pars de Bassila vers Lille pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 24, ""end"": 29, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Malanville Saint-Étienne,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 39, ""end"": 52, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Sakété - Bassila,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 44, ""label"": ""Destination""}]"
+azertyuiop,UNKNOWN,[]
+À quelle heure part le train de Boulogne-Billancourt à Toulouse,NOT_TRIP,[]
+Avez-vous des disponibilités pour un trajet Perpignan Strasbourg,TRIP,"[{""start"": 44, ""end"": 53, ""label"": ""Departure""}, {""start"": 54, ""end"": 64, ""label"": ""Destination""}]"
+Ouidah → Nantes,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 15, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+Avez-vous des places disponibles pour Toulouse Nantes,NOT_TRIP,[]
+Je me déplace la semaine prochaine de Natitingou à Paris,TRIP,"[{""start"": 38, ""end"": 48, ""label"": ""Departure""}, {""start"": 51, ""end"": 56, ""label"": ""Destination""}]"
+Comment aller de Pobè à Mulhouse,TRIP,"[{""start"": 17, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 32, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Rennes - Saint-Denis,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+uzww,UNKNOWN,[]
+de Orléans à Bohicon,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 20, ""label"": ""Destination""}]"
+Trajet Reims → Metz,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 19, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+J'aimerais aller de Montreuil à Villeurbanne,TRIP,"[{""start"": 20, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 44, ""label"": ""Destination""}]"
+hahaha,UNKNOWN,[]
+Trajet de Nantes à Le Mans pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 26, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Train schedule please,NOT_FRENCH,[]
+Thank you very much,NOT_FRENCH,[]
+Je veux aller de Argenteuil à Malanville,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 40, ""label"": ""Destination""}]"
+À quelle heure part le train de Kandi à Saint-Denis,NOT_TRIP,[]
+Je veux un billet Brest Reims,NOT_TRIP,[]
+Je veux un billet Dijon Rennes,NOT_TRIP,[]
+Départ: Metz Destination: Nîmes,TRIP,"[{""start"": 8, ""end"": 12, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Je compte partir de Pobè vers Lille,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Je désire un trajet de Limoges à Abomey,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Puis-je commander un aller simple pour Tours Nantes,NOT_TRIP,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Il faut que j'aille de Limoges à Nantes,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Malanville Kandi,NOT_TRIP,[]
+grrr,UNKNOWN,[]
+Je veux un billet Angers Caen,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Ouidah Angers,NOT_TRIP,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Parakou / Pobè,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 14, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Départ: Annecy Destination: Paris,TRIP,"[{""start"": 8, ""end"": 14, ""label"": ""Departure""}, {""start"": 28, ""end"": 33, ""label"": ""Destination""}]"
+A que horas sai o comboio?,NOT_FRENCH,[]
+Un billet pour Bassila Kandi,NOT_TRIP,[]
+Je voyage ce soir de Nikki vers Abomey,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 32, ""end"": 38, ""label"": ""Destination""}]"
+De Aix-en-Provence à Djougou,TRIP,"[{""start"": 3, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 28, ""label"": ""Destination""}]"
+qsdfghjklm,UNKNOWN,[]
+Est-ce que je peux réserver pour Saint-Étienne Cotonou,NOT_TRIP,[]
+depuis Perpignan jusqu'à Nantes,TRIP,"[{""start"": 7, ""end"": 16, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+...,UNKNOWN,[]
+Abomey → Montreuil,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 18, ""label"": ""Destination""}]"
+Train schedule please,NOT_FRENCH,[]
+Un billet pour Orléans Argenteuil,NOT_TRIP,[]
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Comment aller de Rouen à Reims,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Je veux aller de Dijon à Savé,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 29, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Montpellier Le Havre,TRIP,"[{""start"": 28, ""end"": 39, ""label"": ""Departure""}, {""start"": 40, ""end"": 48, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+Quels trains sont disponibles de Boulogne-Billancourt à Amiens,NOT_TRIP,[]
+euh...,UNKNOWN,[]
+Pourrais-je avoir un trajet Nîmes - Rouen,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 41, ""label"": ""Destination""}]"
+Guten Tag,NOT_FRENCH,[]
+uzww,UNKNOWN,[]
+hein?,UNKNOWN,[]
+Je vais à Lokossa depuis Toulouse cet après-midi,TRIP,"[{""start"": 25, ""end"": 33, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+J'aimerais aller de Marseille à Lille,TRIP,"[{""start"": 20, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 37, ""label"": ""Destination""}]"
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Je vais à Allada depuis Lille cet après-midi,TRIP,"[{""start"": 24, ""end"": 29, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+zzz,UNKNOWN,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+depuis Nantes jusqu'à Annecy,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 28, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Le Havre - Natitingou,NOT_TRIP,[]
+Merci pour votre aide,NOT_TRIP,[]
+Je vais de Malanville à Nîmes pour affaires,TRIP,"[{""start"": 11, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 29, ""label"": ""Destination""}]"
+Je pars de Argenteuil vers Montpellier pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 21, ""label"": ""Departure""}, {""start"": 27, ""end"": 38, ""label"": ""Destination""}]"
+"Good morning, I need assistance",NOT_FRENCH,[]
+Je pars demain de Tchaourou à Boulogne-Billancourt,TRIP,"[{""start"": 18, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 50, ""label"": ""Destination""}]"
+Je rentre à Rouen depuis Strasbourg,TRIP,"[{""start"": 25, ""end"": 35, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+What time does the train leave?,NOT_FRENCH,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Metz Toulouse,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 5, ""end"": 13, ""label"": ""Destination""}]"
+Je vais à Dijon depuis Bordeaux cet après-midi,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+depuis Rennes jusqu'à Le Mans,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 29, ""label"": ""Destination""}]"
+Thank you very much,NOT_FRENCH,[]
+zzz,UNKNOWN,[]
+Il faut que j'aille de Nikki à Montpellier,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 42, ""label"": ""Destination""}]"
+Porto-Novo Montpellier,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 11, ""end"": 22, ""label"": ""Destination""}]"
+Allada / Aix-en-Provence,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 24, ""label"": ""Destination""}]"
+quoi?,UNKNOWN,[]
+I need to go to Birmingham,NOT_FRENCH,[]
+Je voyage ce soir de Nîmes vers Toulouse,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 32, ""end"": 40, ""label"": ""Destination""}]"
+???,UNKNOWN,[]
+Il reste des places pour Bassila Kandi,NOT_TRIP,[]
+Y a-t-il encore de la place Montpellier - Comè,NOT_TRIP,[]
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Je compte partir de Nice vers Natitingou,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 30, ""end"": 40, ""label"": ""Destination""}]"
+Combien coûte Tours - Caen,NOT_TRIP,[]
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Tarifs pour Angers Marseille,NOT_TRIP,[]
+Quels sont les horaires Brest Comè,NOT_TRIP,[]
+Je compte partir de Toulouse vers Tours,TRIP,"[{""start"": 20, ""end"": 28, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Horarios de tren por favor,NOT_FRENCH,[]
+Danke schön,NOT_FRENCH,[]
+bla bla bla,UNKNOWN,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+Je vais à Mulhouse depuis Lille cet après-midi,TRIP,"[{""start"": 26, ""end"": 31, ""label"": ""Departure""}, {""start"": 10, ""end"": 18, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Dijon → Amiens,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 14, ""label"": ""Destination""}]"
+de Boulogne-Billancourt à Dijon,TRIP,"[{""start"": 3, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Montpellier à Clermont-Ferrand,NOT_TRIP,[]
+Avez-vous des disponibilités pour un trajet Bordeaux Kandi,TRIP,"[{""start"": 44, ""end"": 52, ""label"": ""Departure""}, {""start"": 53, ""end"": 58, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Je dois me rendre de Sakété à Toulouse,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 38, ""label"": ""Destination""}]"
+Goedemorgen,NOT_FRENCH,[]
+Je dois aller de Savé à Argenteuil pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 34, ""label"": ""Destination""}]"
+Trajet Besançon → Perpignan,TRIP,"[{""start"": 7, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 27, ""label"": ""Destination""}]"
+Je vais à Angers depuis Allada cet après-midi,TRIP,"[{""start"": 24, ""end"": 30, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Montpellier → Tours,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 19, ""label"": ""Destination""}]"
+Je dois aller de Grenoble à Reims pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 33, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+Pourrais-je avoir un trajet Bordeaux - Tours,TRIP,"[{""start"": 28, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 44, ""label"": ""Destination""}]"
+Trajet de Grenoble à Dijon pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 26, ""label"": ""Destination""}]"
+Quels trains sont disponibles de Cotonou à Limoges,NOT_TRIP,[]
+Danke schön,NOT_FRENCH,[]
+Is there a train to London?,NOT_FRENCH,[]
+Sakété / Metz,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 13, ""label"": ""Destination""}]"
+???,UNKNOWN,[]
+Merci pour votre aide,NOT_TRIP,[]
+Pourrais-je avoir un trajet Comè - Saint-Denis,TRIP,"[{""start"": 28, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 46, ""label"": ""Destination""}]"
+Goedemorgen,NOT_FRENCH,[]
+Quel est le meilleur moyen pour aller de Toulouse vers Natitingou,TRIP,"[{""start"": 41, ""end"": 49, ""label"": ""Departure""}, {""start"": 55, ""end"": 65, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Quels sont les horaires Besançon Djougou,NOT_TRIP,[]
+Je dois aller de Bohicon à Angers pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 33, ""label"": ""Destination""}]"
+Je vais à Parakou depuis Tchaourou cet après-midi,TRIP,"[{""start"": 25, ""end"": 34, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+de Brest vers Porto-Novo,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 14, ""end"": 24, ""label"": ""Destination""}]"
+Pobè → Kétou,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 12, ""label"": ""Destination""}]"
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+Quels sont les horaires Allada Nikki,NOT_TRIP,[]
+Tarifs pour Paris Limoges,NOT_TRIP,[]
+Je rentre à Saint-Étienne depuis Angers,TRIP,"[{""start"": 33, ""end"": 39, ""label"": ""Departure""}, {""start"": 12, ""end"": 25, ""label"": ""Destination""}]"
+Je voyage ce soir de Lyon vers Nice,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 35, ""label"": ""Destination""}]"
+Je vais de Tours à Malanville pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 29, ""label"": ""Destination""}]"
+Trajet Pobè → Porto-Novo,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 24, ""label"": ""Destination""}]"
+Je désire un trajet de Savé à Amiens,TRIP,"[{""start"": 23, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 36, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Clermont-Ferrand Rennes,TRIP,"[{""start"": 28, ""end"": 44, ""label"": ""Departure""}, {""start"": 45, ""end"": 51, ""label"": ""Destination""}]"
+I need to go to Birmingham,NOT_FRENCH,[]
+Je souhaite me déplacer de Saint-Étienne à Reims,TRIP,"[{""start"": 27, ""end"": 40, ""label"": ""Departure""}, {""start"": 43, ""end"": 48, ""label"": ""Destination""}]"
+Comment commander un billet Lille Malanville,NOT_TRIP,[]
+Comè Savé,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 5, ""end"": 9, ""label"": ""Destination""}]"
+Danke schön,NOT_FRENCH,[]
+xD xD xD,UNKNOWN,[]
+Saint-Denis Malanville,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Danke schön,NOT_FRENCH,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Je dois aller de Bohicon à Malanville pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 37, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+wxcvbn,UNKNOWN,[]
+Train schedule please,NOT_FRENCH,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Tarifs pour Djougou Savé,NOT_TRIP,[]
+Saint-Denis - Amiens,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 20, ""label"": ""Destination""}]"
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+de Lokossa à Angers,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 19, ""label"": ""Destination""}]"
+Bassila → Bordeaux,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 18, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+Il faut que j'aille de Nancy à Villeurbanne,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 43, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Buenos días,NOT_FRENCH,[]
+Je veux aller de Parakou à Grenoble,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 35, ""label"": ""Destination""}]"
+Trajet de Perpignan à Brest pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 27, ""label"": ""Destination""}]"
+Je compte partir de Kétou vers Tours,TRIP,"[{""start"": 20, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Trajet de Malanville à Cotonou pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 30, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Natitingou vers Marseille,TRIP,"[{""start"": 31, ""end"": 41, ""label"": ""Departure""}, {""start"": 47, ""end"": 56, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Paris - Nancy,NOT_TRIP,[]
+De Toulouse à Kétou,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 19, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+J'aimerais aller de Malanville à Besançon,TRIP,"[{""start"": 20, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 41, ""label"": ""Destination""}]"
+Je pars demain de Cotonou à Rennes,TRIP,"[{""start"": 18, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 34, ""label"": ""Destination""}]"
+Tarifs pour Nantes Le Mans,NOT_TRIP,[]
+grrr,UNKNOWN,[]
+Il faut que j'aille de Natitingou à Orléans,TRIP,"[{""start"": 23, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Nice à Allada,NOT_TRIP,[]
+Est-ce que je peux réserver pour Paris Rouen,NOT_TRIP,[]
+Je rentre à Nîmes depuis Natitingou,TRIP,"[{""start"": 25, ""end"": 35, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Lokossa Abomey,TRIP,"[{""start"": 44, ""end"": 51, ""label"": ""Departure""}, {""start"": 52, ""end"": 58, ""label"": ""Destination""}]"
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+Je voudrais réserver Sakété Nice,NOT_TRIP,[]
+Comment aller de Perpignan à Cotonou,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 36, ""label"": ""Destination""}]"
+A che ora parte il treno?,NOT_FRENCH,[]
+Je pars demain de Allada à Angers,TRIP,"[{""start"": 18, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 33, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Toulon vers Nikki,TRIP,"[{""start"": 41, ""end"": 47, ""label"": ""Departure""}, {""start"": 53, ""end"": 58, ""label"": ""Destination""}]"
+Natitingou Tours,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 11, ""end"": 16, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+Je dois effectuer le trajet Sakété Djougou,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 35, ""end"": 42, ""label"": ""Destination""}]"
+depuis Nancy jusqu'à Djougou,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 28, ""label"": ""Destination""}]"
+Comment prendre un billet Porto-Novo Tchaourou,NOT_TRIP,[]
+Je rentre à Djougou depuis Porto-Novo,TRIP,"[{""start"": 27, ""end"": 37, ""label"": ""Departure""}, {""start"": 12, ""end"": 19, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+!!!,UNKNOWN,[]
+Quel est le prix du billet Nantes Natitingou,NOT_TRIP,[]
+Tarifs pour Perpignan Toulon,NOT_TRIP,[]
+Je désire un aller-retour de Le Mans vers Lille,NOT_TRIP,[]
+Avez-vous des trains pour Boulogne-Billancourt Nice,NOT_TRIP,[]
+Lille - Limoges,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 15, ""label"": ""Destination""}]"
+"Good morning, I need assistance",NOT_FRENCH,[]
+Il reste des places pour Lyon Savé,NOT_TRIP,[]
+Lokossa - Strasbourg,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 20, ""label"": ""Destination""}]"
+iiii,UNKNOWN,[]
+zzz,UNKNOWN,[]
+Comment prendre un billet Bohicon Parakou,NOT_TRIP,[]
+Quel est le prix du billet Brest Boulogne-Billancourt,NOT_TRIP,[]
+Départ: Amiens Destination: Metz,TRIP,"[{""start"": 8, ""end"": 14, ""label"": ""Departure""}, {""start"": 28, ""end"": 32, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Je me déplace la semaine prochaine de Amiens à Montreuil,TRIP,"[{""start"": 38, ""end"": 44, ""label"": ""Departure""}, {""start"": 47, ""end"": 56, ""label"": ""Destination""}]"
+de Tours à Nantes,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Je rentre à Lille depuis Metz,TRIP,"[{""start"": 25, ""end"": 29, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+J'aimerais aller de Pobè à Brest,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 32, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Je vais à Malanville depuis Nantes cet après-midi,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 10, ""end"": 20, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Lille Natitingou,NOT_TRIP,[]
+Je vais à Bordeaux depuis Le Mans cet après-midi,TRIP,"[{""start"": 26, ""end"": 33, ""label"": ""Departure""}, {""start"": 10, ""end"": 18, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Tchaourou à Le Havre,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Villeurbanne vers Le Havre,TRIP,"[{""start"": 41, ""end"": 53, ""label"": ""Departure""}, {""start"": 59, ""end"": 67, ""label"": ""Destination""}]"
+Merci pour votre aide,NOT_TRIP,[]
+grrr,UNKNOWN,[]
+Buenos días,NOT_FRENCH,[]
+De Parakou jusqu'à Comè,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Je rentre à Ouidah depuis Amiens,TRIP,"[{""start"": 26, ""end"": 32, ""label"": ""Departure""}, {""start"": 12, ""end"": 18, ""label"": ""Destination""}]"
+Je pars demain de Paris à Besançon,TRIP,"[{""start"": 18, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 34, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Saint-Denis à Boulogne-Billancourt,TRIP,"[{""start"": 38, ""end"": 49, ""label"": ""Departure""}, {""start"": 52, ""end"": 72, ""label"": ""Destination""}]"
+Je dois aller de Reims à Paris pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Félicitations pour votre travail,NOT_TRIP,[]
+Aller de Argenteuil vers Rouen,TRIP,"[{""start"": 9, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Je veux aller de Abomey à Nîmes,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Aller de Le Havre vers Lille,TRIP,"[{""start"": 9, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+Je cherche un train Grenoble Clermont-Ferrand,NOT_TRIP,[]
+Toulouse Paris,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 9, ""end"": 14, ""label"": ""Destination""}]"
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Je désire un trajet de Bordeaux à Angers,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 40, ""label"": ""Destination""}]"
+Nîmes / Boulogne-Billancourt,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 28, ""label"": ""Destination""}]"
+Quel est le prix du billet Nikki Bassila,NOT_TRIP,[]
+Horaires de train Allada - Nancy,NOT_TRIP,[]
+¿A qué hora sale el tren?,NOT_FRENCH,[]
+de Djougou vers Bordeaux,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 24, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Nancy à Nikki,TRIP,"[{""start"": 38, ""end"": 43, ""label"": ""Departure""}, {""start"": 46, ""end"": 51, ""label"": ""Destination""}]"
+Je rentre à Nice depuis Aix-en-Provence,TRIP,"[{""start"": 24, ""end"": 39, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Je pars demain de Caen à Amiens,TRIP,"[{""start"": 18, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+"Good morning, I need assistance",NOT_FRENCH,[]
+qsdfghjklm,UNKNOWN,[]
+Buongiorno,NOT_FRENCH,[]
+J'aimerais aller de Annecy à Abomey,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+Je dois aller de Rennes à Natitingou pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 36, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Amiens à Strasbourg,NOT_TRIP,[]
+Un billet pour Malanville Lyon,NOT_TRIP,[]
+Je voyage ce soir de Le Havre vers Boulogne-Billancourt,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 35, ""end"": 55, ""label"": ""Destination""}]"
+Je pars de Argenteuil vers Porto-Novo pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 21, ""label"": ""Departure""}, {""start"": 27, ""end"": 37, ""label"": ""Destination""}]"
+Je veux un billet Brest Grenoble,NOT_TRIP,[]
+Je souhaite me déplacer de Brest à Porto-Novo,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 45, ""label"": ""Destination""}]"
+A che ora parte il treno?,NOT_FRENCH,[]
+Comment aller de Kandi à Lokossa,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 32, ""label"": ""Destination""}]"
+hein?,UNKNOWN,[]
+Je veux aller de Parakou à Tchaourou,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 36, ""label"": ""Destination""}]"
+De Reims jusqu'à Toulouse,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 17, ""end"": 25, ""label"": ""Destination""}]"
+J'aimerais aller de Ouidah à Marseille,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 38, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+de Grenoble à Dijon,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 19, ""label"": ""Destination""}]"
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Je dois effectuer le trajet Strasbourg Pobè,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 39, ""end"": 43, ""label"": ""Destination""}]"
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+De Abomey à Malanville,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Comment prendre un billet Marseille Villeurbanne,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Rennes Limoges,NOT_TRIP,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+wxcvbn,UNKNOWN,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Je vais de Montreuil à Brest pour affaires,TRIP,"[{""start"": 11, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Je veux un billet Savé Clermont-Ferrand,NOT_TRIP,[]
+Je dois effectuer le trajet Annecy Angers,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 35, ""end"": 41, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Montreuil Toulouse,TRIP,"[{""start"": 44, ""end"": 53, ""label"": ""Departure""}, {""start"": 54, ""end"": 62, ""label"": ""Destination""}]"
+Je désire un trajet de Boulogne-Billancourt à Malanville,TRIP,"[{""start"": 23, ""end"": 43, ""label"": ""Departure""}, {""start"": 46, ""end"": 56, ""label"": ""Destination""}]"
+Buongiorno,NOT_FRENCH,[]
+bg,UNKNOWN,[]
+A que horas sai o comboio?,NOT_FRENCH,[]
+À quelle heure y a-t-il des trains de Boulogne-Billancourt à Limoges,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Toulon vers Bordeaux,TRIP,"[{""start"": 41, ""end"": 47, ""label"": ""Departure""}, {""start"": 53, ""end"": 61, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+J'aimerais une réservation Tchaourou - Orléans,NOT_TRIP,[]
+Bom dia,NOT_FRENCH,[]
+Je pars demain de Orléans à Strasbourg,TRIP,"[{""start"": 18, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 38, ""label"": ""Destination""}]"
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Je souhaite obtenir mon trajet Metz vers Aix-en-Provence,TRIP,"[{""start"": 31, ""end"": 35, ""label"": ""Departure""}, {""start"": 41, ""end"": 56, ""label"": ""Destination""}]"
+Je pars de Savé vers Ouidah pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 27, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Nancy vers Malanville,TRIP,"[{""start"": 41, ""end"": 46, ""label"": ""Departure""}, {""start"": 52, ""end"": 62, ""label"": ""Destination""}]"
+de Bassila vers Nikki,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 21, ""label"": ""Destination""}]"
+Je désire un trajet de Parakou à Strasbourg,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 43, ""label"": ""Destination""}]"
+Prix du trajet Argenteuil Djougou,NOT_TRIP,[]
+À quelle heure part le train de Lille à Porto-Novo,NOT_TRIP,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+...........,UNKNOWN,[]
+Cotonou → Bassila,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Bordeaux à Grenoble,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+bla bla bla,UNKNOWN,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Je cherche un train Limoges Nice,NOT_TRIP,[]
+Je vais de Grenoble à Dijon pour affaires,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 27, ""label"": ""Destination""}]"
+oklm,UNKNOWN,[]
+Il faut que j'aille de Lokossa à Saint-Denis,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 44, ""label"": ""Destination""}]"
+Avez-vous des trains pour Tours Tchaourou,NOT_TRIP,[]
+Combien coûte Kandi - Sakété,NOT_TRIP,[]
+Je souhaite obtenir un billet Rennes - Marseille,NOT_TRIP,[]
+Je souhaite obtenir un billet Sakété - Bassila,NOT_TRIP,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Je vais à Nikki depuis Lille cet après-midi,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+!!!,UNKNOWN,[]
+!!!???,UNKNOWN,[]
+De Saint-Denis jusqu'à Lyon,TRIP,"[{""start"": 3, ""end"": 14, ""label"": ""Departure""}, {""start"": 23, ""end"": 27, ""label"": ""Destination""}]"
+Cotonou - Parakou,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+depuis Annecy jusqu'à Clermont-Ferrand,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 38, ""label"": ""Destination""}]"
+J'aimerais une réservation Toulon - Tchaourou,NOT_TRIP,[]
+J'aimerais aller de Pobè à Paris,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 32, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Lokossa à Amiens,NOT_TRIP,[]
+Goedemorgen,NOT_FRENCH,[]
+...........,UNKNOWN,[]
+Je veux aller de Nancy à Amiens,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Je dois effectuer le trajet Perpignan Le Havre,TRIP,"[{""start"": 28, ""end"": 37, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+lol lol lol,UNKNOWN,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Je pars demain de Argenteuil à Cotonou,TRIP,"[{""start"": 18, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 38, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Kandi - Rennes,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 42, ""label"": ""Destination""}]"
+Je désire un aller-retour de Sakété vers Orléans,NOT_TRIP,[]
+!!!???,UNKNOWN,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Avez-vous des trains pour Metz Villeurbanne,NOT_TRIP,[]
+Aller de Limoges vers Argenteuil,TRIP,"[{""start"": 9, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 32, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Metz Grenoble,NOT_TRIP,[]
+Comment commander un billet Tours Toulon,NOT_TRIP,[]
+Un billet pour Clermont-Ferrand Abomey,NOT_TRIP,[]
+Buongiorno,NOT_FRENCH,[]
+Je compte partir de Pobè vers Dijon,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Y a-t-il un train Kétou-Argenteuil,NOT_TRIP,[]
+Je désire un trajet de Natitingou à Bohicon,TRIP,"[{""start"": 23, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+zzz,UNKNOWN,[]
+zzz,UNKNOWN,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+iiii,UNKNOWN,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Je rentre à Toulon depuis Djougou,TRIP,"[{""start"": 26, ""end"": 33, ""label"": ""Departure""}, {""start"": 12, ""end"": 18, ""label"": ""Destination""}]"
+J'aimerais une réservation Paris - Rennes,NOT_TRIP,[]
+Je dois me rendre de Montpellier à Brest,TRIP,"[{""start"": 21, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 40, ""label"": ""Destination""}]"
+Je veux un billet Rouen Pobè,NOT_TRIP,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+Je désire un trajet de Kandi à Le Mans,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 38, ""label"": ""Destination""}]"
+Nantes → Saint-Étienne,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 22, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+Je rentre à Parakou depuis Aix-en-Provence,TRIP,"[{""start"": 27, ""end"": 42, ""label"": ""Departure""}, {""start"": 12, ""end"": 19, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Trajet de Strasbourg à Nikki pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+"Hello, how are you?",NOT_FRENCH,[]
+bg,UNKNOWN,[]
+Je veux un billet Metz Comè,NOT_TRIP,[]
+Pouvez-vous me donner un billet de Perpignan à Bassila,NOT_TRIP,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Montpellier vers Toulouse,TRIP,"[{""start"": 31, ""end"": 42, ""label"": ""Departure""}, {""start"": 48, ""end"": 56, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Paris Perpignan,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 34, ""end"": 43, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Tours - Nancy,NOT_TRIP,[]
+Je voudrais réserver Le Mans Toulon,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Pouvez-vous me trouver un train de Bassila à Reims,NOT_TRIP,[]
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+Quel est le meilleur moyen pour aller de Cotonou vers Villeurbanne,TRIP,"[{""start"": 41, ""end"": 48, ""label"": ""Departure""}, {""start"": 54, ""end"": 66, ""label"": ""Destination""}]"
+Quero um bilhete para Porto,NOT_FRENCH,[]
+J'aimerais une réservation Saint-Denis - Perpignan,NOT_TRIP,[]
+Je voyage ce soir de Lyon vers Djougou,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 38, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Est-ce que je peux réserver pour Reims Grenoble,NOT_TRIP,[]
+À quelle heure y a-t-il des trains de Bohicon à Kandi,NOT_TRIP,[]
+Prix du trajet Marseille Amiens,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Quero um bilhete para Porto,NOT_FRENCH,[]
+Je cherche un train Amiens Dijon,NOT_TRIP,[]
+Je rentre à Montreuil depuis Cotonou,TRIP,"[{""start"": 29, ""end"": 36, ""label"": ""Departure""}, {""start"": 12, ""end"": 21, ""label"": ""Destination""}]"
+depuis Dijon jusqu'à Malanville,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 31, ""label"": ""Destination""}]"
+iiii,UNKNOWN,[]
+Grazie mille,NOT_FRENCH,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Pouvez-vous me donner un billet de Saint-Étienne à Comè,NOT_TRIP,[]
+Malanville Rennes,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+Je veux un billet Tchaourou Mulhouse,NOT_TRIP,[]
+Cotonou → Ouidah,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+qsdfghjklm,UNKNOWN,[]
+Malanville - Perpignan,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 22, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Boulogne-Billancourt à Ouidah,NOT_TRIP,[]
+Je vais de Metz à Grenoble pour affaires,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 26, ""label"": ""Destination""}]"
+C'est possible d'aller de Grenoble à Boulogne-Billancourt,TRIP,"[{""start"": 26, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 57, ""label"": ""Destination""}]"
+uzww,UNKNOWN,[]
+zzz,UNKNOWN,[]
+Je désire un trajet de Limoges à Porto-Novo,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 43, ""label"": ""Destination""}]"
+Pouvez-vous me donner les horaires Nantes Clermont-Ferrand,NOT_TRIP,[]
+Buenos días,NOT_FRENCH,[]
+De Saint-Étienne jusqu'à Tours,TRIP,"[{""start"": 3, ""end"": 16, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Toulon Boulogne-Billancourt,TRIP,"[{""start"": 44, ""end"": 50, ""label"": ""Departure""}, {""start"": 51, ""end"": 71, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+grrr,UNKNOWN,[]
+quoi?,UNKNOWN,[]
+C'est possible d'aller de Nancy à Kandi,TRIP,"[{""start"": 26, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Je pars de Metz vers Nancy pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 26, ""label"": ""Destination""}]"
+Réservation Allada → Toulon,NOT_TRIP,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Il reste des places pour Limoges Saint-Étienne,NOT_TRIP,[]
+Tarifs pour Clermont-Ferrand Argenteuil,NOT_TRIP,[]
+Je veux un billet Perpignan Bassila,NOT_TRIP,[]
+"Hello, how are you?",NOT_FRENCH,[]
+Pourrais-je avoir un trajet Natitingou - Lille,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 41, ""end"": 46, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Strasbourg Montpellier,NOT_TRIP,[]
+...,UNKNOWN,[]
+Je dois effectuer le trajet Savé Nîmes,TRIP,"[{""start"": 28, ""end"": 32, ""label"": ""Departure""}, {""start"": 33, ""end"": 38, ""label"": ""Destination""}]"
+Je pars de Mulhouse vers Nancy pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Il faut que j'aille de Brest à Montreuil,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 40, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Est-ce que je peux réserver pour Saint-Étienne Boulogne-Billancourt,NOT_TRIP,[]
+depuis Annecy jusqu'à Reims,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 27, ""label"": ""Destination""}]"
+Il reste des places pour Angers Boulogne-Billancourt,NOT_TRIP,[]
+Quiero un billete para Madrid,NOT_FRENCH,[]
+De Sakété jusqu'à Boulogne-Billancourt,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 18, ""end"": 38, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+De Bordeaux jusqu'à Tchaourou,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 29, ""label"": ""Destination""}]"
+depuis Grenoble jusqu'à Annecy,TRIP,"[{""start"": 7, ""end"": 15, ""label"": ""Departure""}, {""start"": 24, ""end"": 30, ""label"": ""Destination""}]"
+Je vais de Aix-en-Provence à Paris pour affaires,TRIP,"[{""start"": 11, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 34, ""label"": ""Destination""}]"
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Merci pour votre aide,NOT_TRIP,[]
+Je compte partir de Nikki vers Kétou,TRIP,"[{""start"": 20, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Je rentre à Nice depuis Nikki,TRIP,"[{""start"": 24, ""end"": 29, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+Trajet de Kandi à Nikki pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 23, ""label"": ""Destination""}]"
+Y a-t-il un train Besançon-Grenoble,NOT_TRIP,[]
+bla bla bla,UNKNOWN,[]
+Merci pour votre aide,NOT_TRIP,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Je veux aller de Comè à Caen,TRIP,"[{""start"": 17, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 28, ""label"": ""Destination""}]"
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Gracias por su ayuda,NOT_FRENCH,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+Train schedule please,NOT_FRENCH,[]
+Can you help me find a train?,NOT_FRENCH,[]
+Buenos días,NOT_FRENCH,[]
+Comè Orléans,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 5, ""end"": 12, ""label"": ""Destination""}]"
+de Lyon vers Annecy,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 13, ""end"": 19, ""label"": ""Destination""}]"
+Départ: Lokossa Destination: Angers,TRIP,"[{""start"": 8, ""end"": 15, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+Félicitations pour votre travail,NOT_TRIP,[]
+Comment prendre un billet Rouen Paris,NOT_TRIP,[]
+Guten Tag,NOT_FRENCH,[]
+de Aix-en-Provence à Rouen,TRIP,"[{""start"": 3, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 26, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Départ: Bordeaux Destination: Dijon,TRIP,"[{""start"": 8, ""end"": 16, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Trajet de Ouidah à Kandi pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 24, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+bla bla bla,UNKNOWN,[]
+de Porto-Novo vers Saint-Étienne,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 19, ""end"": 32, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+Aller de Besançon vers Saint-Denis,TRIP,"[{""start"": 9, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 34, ""label"": ""Destination""}]"
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+de Natitingou vers Strasbourg,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 19, ""end"": 29, ""label"": ""Destination""}]"
+Je dois me rendre de Limoges à Metz,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 35, ""label"": ""Destination""}]"
+Je pars demain de Annecy à Sakété,TRIP,"[{""start"": 18, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 33, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Tours - Saint-Denis,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 47, ""label"": ""Destination""}]"
+Je voudrais réserver Allada Nice,NOT_TRIP,[]
+Réservation Angers → Comè,NOT_TRIP,[]
+À quelle heure part le train de Sakété à Annecy,NOT_TRIP,[]
+Besançon / Sakété,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+Je pars de Bassila vers Toulouse pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 24, ""end"": 32, ""label"": ""Destination""}]"
+Marseille → Orléans,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 19, ""label"": ""Destination""}]"
+Danke schön,NOT_FRENCH,[]
+De Parakou jusqu'à Argenteuil,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 19, ""end"": 29, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Nantes à Tchaourou,TRIP,"[{""start"": 38, ""end"": 44, ""label"": ""Departure""}, {""start"": 47, ""end"": 56, ""label"": ""Destination""}]"
+Quels sont les horaires Malanville Sakété,NOT_TRIP,[]
+Comment aller de Tchaourou à Le Mans,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 36, ""label"": ""Destination""}]"
+Vorrei un biglietto per Milano,NOT_FRENCH,[]
+Je vais de Reims à Argenteuil pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 29, ""label"": ""Destination""}]"
+Is there a train to London?,NOT_FRENCH,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Je désire un trajet de Limoges à Villeurbanne,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 45, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Bassila vers Lokossa,TRIP,"[{""start"": 31, ""end"": 38, ""label"": ""Departure""}, {""start"": 44, ""end"": 51, ""label"": ""Destination""}]"
+Avez-vous des trains pour Besançon Strasbourg,NOT_TRIP,[]
+de Strasbourg vers Montpellier,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 19, ""end"": 30, ""label"": ""Destination""}]"
+Avez-vous des trains pour Saint-Denis Villeurbanne,NOT_TRIP,[]
+Départ: Montpellier Destination: Angers,TRIP,"[{""start"": 8, ""end"": 19, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Je voudrais réserver Nice Savé,NOT_TRIP,[]
+Je pars de Sakété vers Allada pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 29, ""label"": ""Destination""}]"
+Je dois me rendre de Strasbourg à Nikki,TRIP,"[{""start"": 21, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Tarifs pour Rennes Bassila,NOT_TRIP,[]
+Je vais de Bohicon à Villeurbanne pour affaires,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 33, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+Je souhaite obtenir un billet Rennes - Le Mans,NOT_TRIP,[]
+Je me déplace la semaine prochaine de Caen à Malanville,TRIP,"[{""start"": 38, ""end"": 42, ""label"": ""Departure""}, {""start"": 45, ""end"": 55, ""label"": ""Destination""}]"
+J'aimerais aller de Argenteuil à Amiens,TRIP,"[{""start"": 20, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Bohicon à Le Havre,TRIP,"[{""start"": 38, ""end"": 45, ""label"": ""Departure""}, {""start"": 48, ""end"": 56, ""label"": ""Destination""}]"
+Je cherche un train Montpellier Kétou,NOT_TRIP,[]
+Je veux aller de Nîmes à Porto-Novo,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 35, ""label"": ""Destination""}]"
+C'est possible d'aller de Amiens à Lyon,TRIP,"[{""start"": 26, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 39, ""label"": ""Destination""}]"
+Je dois me rendre de Sakété à Abomey,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 36, ""label"": ""Destination""}]"
+Je pars de Sakété vers Nantes pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 29, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Perpignan à Strasbourg,TRIP,"[{""start"": 38, ""end"": 47, ""label"": ""Departure""}, {""start"": 50, ""end"": 60, ""label"": ""Destination""}]"
+Je désire un trajet de Savé à Caen,TRIP,"[{""start"": 23, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 34, ""label"": ""Destination""}]"
+Un billet pour Tchaourou Argenteuil,NOT_TRIP,[]
+J'aimerais une réservation Strasbourg - Saint-Étienne,NOT_TRIP,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Je voudrais réserver Nantes Le Mans,NOT_TRIP,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Montreuil - Lille,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+J'aimerais aller de Parakou à Dijon,TRIP,"[{""start"": 20, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Savé à Paris,NOT_TRIP,[]
+I would like a ticket to Manchester,NOT_FRENCH,[]
+Y a-t-il encore de la place Rouen - Nantes,NOT_TRIP,[]
+J'aimerais une réservation Cotonou - Montreuil,NOT_TRIP,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Je désire un trajet de Le Havre à Lille,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Je vais à Brest depuis Tchaourou cet après-midi,TRIP,"[{""start"": 23, ""end"": 32, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+À quelle heure part le train de Cotonou à Sakété,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+Avez-vous des places disponibles pour Savé Lokossa,NOT_TRIP,[]
+qsdfghjklm,UNKNOWN,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Je souhaite me déplacer de Savé à Orléans,TRIP,"[{""start"": 27, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 41, ""label"": ""Destination""}]"
+Trains disponibles Nikki → Toulouse,NOT_TRIP,[]
+Trajet Kandi → Djougou,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 22, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Montpellier Bassila,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+"Good morning, I need assistance",NOT_FRENCH,[]
+Je rentre à Kandi depuis Bassila,TRIP,"[{""start"": 25, ""end"": 32, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Tours Marseille,TRIP,"[{""start"": 44, ""end"": 49, ""label"": ""Departure""}, {""start"": 50, ""end"": 59, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Trains disponibles Pobè → Nancy,NOT_TRIP,[]
+Aller de Strasbourg vers Lokossa,TRIP,"[{""start"": 9, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 32, ""label"": ""Destination""}]"
+Trajet Nice → Boulogne-Billancourt,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 34, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Bassila Nancy,TRIP,"[{""start"": 44, ""end"": 51, ""label"": ""Departure""}, {""start"": 52, ""end"": 57, ""label"": ""Destination""}]"
+Je veux aller de Boulogne-Billancourt à Perpignan,TRIP,"[{""start"": 17, ""end"": 37, ""label"": ""Departure""}, {""start"": 40, ""end"": 49, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Paris - Boulogne-Billancourt,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 56, ""label"": ""Destination""}]"
+Prix du trajet Sakété Parakou,NOT_TRIP,[]
+Montpellier Argenteuil,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Reims - Malanville,NOT_TRIP,[]
+Avez-vous des disponibilités pour un trajet Orléans Le Mans,TRIP,"[{""start"": 44, ""end"": 51, ""label"": ""Departure""}, {""start"": 52, ""end"": 59, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Saint-Denis Le Havre,NOT_TRIP,[]
+Quels sont les horaires Villeurbanne Porto-Novo,NOT_TRIP,[]
+Y a-t-il encore de la place Saint-Denis - Reims,NOT_TRIP,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+...,UNKNOWN,[]
+Y a-t-il un train Reims-Parakou,NOT_TRIP,[]
+J'aimerais une réservation Djougou - Metz,NOT_TRIP,[]
+Je souhaite me déplacer de Saint-Étienne à Marseille,TRIP,"[{""start"": 27, ""end"": 40, ""label"": ""Departure""}, {""start"": 43, ""end"": 52, ""label"": ""Destination""}]"
+Un billet pour Abomey Lille,NOT_TRIP,[]
+Comment aller de Perpignan à Angers,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Mulhouse - Lille,NOT_TRIP,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+De Malanville jusqu'à Boulogne-Billancourt,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 42, ""label"": ""Destination""}]"
+Je voyage ce soir de Parakou vers Porto-Novo,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 34, ""end"": 44, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Toulon Savé,NOT_TRIP,[]
+De Kandi jusqu'à Malanville,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 17, ""end"": 27, ""label"": ""Destination""}]"
+De Le Mans jusqu'à Abomey,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 19, ""end"": 25, ""label"": ""Destination""}]"
+!!!,UNKNOWN,[]
+Pouvez-vous me trouver un train de Lyon à Pobè,NOT_TRIP,[]
+Départ: Montreuil Destination: Orléans,TRIP,"[{""start"": 8, ""end"": 17, ""label"": ""Departure""}, {""start"": 31, ""end"": 38, ""label"": ""Destination""}]"
+Grazie mille,NOT_FRENCH,[]
+Je pars demain de Villeurbanne à Comè,TRIP,"[{""start"": 18, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 37, ""label"": ""Destination""}]"
+Combien coûte Toulouse - Bassila,NOT_TRIP,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+de Amiens à Marseille,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 21, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Je désire un trajet de Le Mans à Saint-Étienne,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 46, ""label"": ""Destination""}]"
+???,UNKNOWN,[]
+Avez-vous des places disponibles pour Savé Nantes,NOT_TRIP,[]
+Buenos días,NOT_FRENCH,[]
+Gracias por su ayuda,NOT_FRENCH,[]
+Y a-t-il encore de la place Metz - Argenteuil,NOT_TRIP,[]
+Je désire un aller-retour de Toulouse vers Limoges,NOT_TRIP,[]
+iiii,UNKNOWN,[]
+Nancy / Rouen,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 13, ""label"": ""Destination""}]"
+Horarios de tren por favor,NOT_FRENCH,[]
+Merci pour votre aide,NOT_TRIP,[]
+C'est combien pour aller de Amiens à Cotonou,NOT_TRIP,[]
+Je vais à Kandi depuis Nîmes cet après-midi,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Pobè / Allada,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 13, ""label"": ""Destination""}]"
+Quel est le prix du billet Rouen Nancy,NOT_TRIP,[]
+Quels trains sont disponibles de Montpellier à Villeurbanne,NOT_TRIP,[]
+Lille → Cotonou,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 15, ""label"": ""Destination""}]"
+depuis Nancy jusqu'à Orléans,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 28, ""label"": ""Destination""}]"
+Montpellier - Sakété,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 20, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Bohicon Rennes,NOT_TRIP,[]
+Réservation Mulhouse → Dijon,NOT_TRIP,[]
+Je souhaite me déplacer de Marseille à Malanville,TRIP,"[{""start"": 27, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 49, ""label"": ""Destination""}]"
+Billet de Djougou à Nantes,NOT_TRIP,[]
+Je voyage ce soir de Nancy vers Natitingou,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 32, ""end"": 42, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+À quelle heure part le train de Kétou à Reims,NOT_TRIP,[]
+Comment prendre un billet Villeurbanne Savé,NOT_TRIP,[]
+!!!,UNKNOWN,[]
+Bonne journée,NOT_TRIP,[]
+Quels trains sont disponibles de Strasbourg à Lille,NOT_TRIP,[]
+C'est possible d'aller de Grenoble à Metz,TRIP,"[{""start"": 26, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 41, ""label"": ""Destination""}]"
+Aller de Kétou vers Strasbourg,TRIP,"[{""start"": 9, ""end"": 14, ""label"": ""Departure""}, {""start"": 20, ""end"": 30, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+Quels sont les horaires de train pour Saint-Étienne Le Havre,NOT_TRIP,[]
+Je souhaite me déplacer de Rouen à Djougou,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 42, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+J'aimerais une réservation Perpignan - Angers,NOT_TRIP,[]
+Je désire un aller-retour de Natitingou vers Saint-Denis,NOT_TRIP,[]
+Saint-Étienne - Saint-Denis,TRIP,"[{""start"": 0, ""end"": 13, ""label"": ""Departure""}, {""start"": 16, ""end"": 27, ""label"": ""Destination""}]"
+Il faut que j'aille de Toulon à Porto-Novo,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 42, ""label"": ""Destination""}]"
+Buongiorno,NOT_FRENCH,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Aller de Lille vers Porto-Novo,TRIP,"[{""start"": 9, ""end"": 14, ""label"": ""Departure""}, {""start"": 20, ""end"": 30, ""label"": ""Destination""}]"
+Je pars demain de Saint-Étienne à Parakou,TRIP,"[{""start"": 18, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 41, ""label"": ""Destination""}]"
+Preciso ir a Braga,NOT_FRENCH,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+J'aimerais aller de Reims à Natitingou,TRIP,"[{""start"": 20, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 38, ""label"": ""Destination""}]"
+Je rentre à Kétou depuis Montreuil,TRIP,"[{""start"": 25, ""end"": 34, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Nîmes à Nantes,NOT_TRIP,[]
+Can you help me find a train?,NOT_FRENCH,[]
+C'est possible d'aller de Lokossa à Malanville,TRIP,"[{""start"": 26, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 46, ""label"": ""Destination""}]"
+Bassila / Rennes,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+lol lol lol,UNKNOWN,[]
+Je souhaite obtenir mon trajet Orléans vers Mulhouse,TRIP,"[{""start"": 31, ""end"": 38, ""label"": ""Departure""}, {""start"": 44, ""end"": 52, ""label"": ""Destination""}]"
+quoi?,UNKNOWN,[]
+De Ouidah jusqu'à Caen,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 18, ""end"": 22, ""label"": ""Destination""}]"
+Grazie mille,NOT_FRENCH,[]
+xD xD xD,UNKNOWN,[]
+Y a-t-il un train Dijon-Nantes,NOT_TRIP,[]
+Il faut que j'aille de Rouen à Tours,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Angers vers Aix-en-Provence,TRIP,"[{""start"": 31, ""end"": 37, ""label"": ""Departure""}, {""start"": 43, ""end"": 58, ""label"": ""Destination""}]"
+Je rentre à Argenteuil depuis Saint-Étienne,TRIP,"[{""start"": 30, ""end"": 43, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Je dois aller de Besançon à Argenteuil pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 38, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Besançon à Grenoble,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+A que horas sai o comboio?,NOT_FRENCH,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Guten Tag,NOT_FRENCH,[]
+C'est combien pour aller de Le Mans à Lyon,NOT_TRIP,[]
+Est-ce que je peux réserver pour Caen Saint-Étienne,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Comment commander un billet Dijon Grenoble,NOT_TRIP,[]
+Pouvez-vous me donner un billet de Parakou à Besançon,NOT_TRIP,[]
+Je désire un trajet de Rennes à Villeurbanne,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 44, ""label"": ""Destination""}]"
+Brest - Argenteuil,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 18, ""label"": ""Destination""}]"
+Guten Tag,NOT_FRENCH,[]
+Train schedule please,NOT_FRENCH,[]
+Comment prendre un billet Allada Toulon,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Rennes vers Marseille,TRIP,"[{""start"": 31, ""end"": 37, ""label"": ""Departure""}, {""start"": 43, ""end"": 52, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Nikki à Rennes,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 41, ""label"": ""Destination""}]"
+Devo andare a Venezia,NOT_FRENCH,[]
+depuis Comè jusqu'à Nikki,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 25, ""label"": ""Destination""}]"
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Trajet de Saint-Étienne à Metz pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 30, ""label"": ""Destination""}]"
+Je désire un trajet de Toulouse à Djougou,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 41, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Les horaires pour aller de Clermont-Ferrand à Nikki,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+Je vais de Kandi à Cotonou pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 26, ""label"": ""Destination""}]"
+Annecy - Perpignan,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 18, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+grrr,UNKNOWN,[]
+Je dois aller de Rennes à Tours pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Quels sont les horaires Allada Natitingou,NOT_TRIP,[]
+À quelle heure y a-t-il des trains de Villeurbanne à Savé,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Cotonou Bohicon,NOT_TRIP,[]
+hein?,UNKNOWN,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Is there a train to London?,NOT_FRENCH,[]
+Départ: Parakou Destination: Nice,TRIP,"[{""start"": 8, ""end"": 15, ""label"": ""Departure""}, {""start"": 29, ""end"": 33, ""label"": ""Destination""}]"
+Je désire un trajet de Clermont-Ferrand à Perpignan,TRIP,"[{""start"": 23, ""end"": 39, ""label"": ""Departure""}, {""start"": 42, ""end"": 51, ""label"": ""Destination""}]"
+J'aimerais aller de Angers à Limoges,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 36, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+A que horas sai o comboio?,NOT_FRENCH,[]
+euh...,UNKNOWN,[]
+Obrigado,NOT_FRENCH,[]
+Comment prendre un billet Comè Tchaourou,NOT_TRIP,[]
+De Kandi à Toulon,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Je dois effectuer le trajet Cotonou Le Mans,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+uzww,UNKNOWN,[]
+Je rentre à Villeurbanne depuis Sakété,TRIP,"[{""start"": 32, ""end"": 38, ""label"": ""Departure""}, {""start"": 12, ""end"": 24, ""label"": ""Destination""}]"
+Il reste des places pour Perpignan Parakou,NOT_TRIP,[]
+Quel est le prix du billet Natitingou Orléans,NOT_TRIP,[]
+!!!,UNKNOWN,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+I need to go to Birmingham,NOT_FRENCH,[]
+Trains disponibles Nancy → Allada,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+Je dois me rendre de Saint-Denis à Nancy,TRIP,"[{""start"": 21, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 40, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Montpellier vers Savé,TRIP,"[{""start"": 31, ""end"": 42, ""label"": ""Departure""}, {""start"": 48, ""end"": 52, ""label"": ""Destination""}]"
+de Caen à Nantes,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+De Nantes jusqu'à Natitingou,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 18, ""end"": 28, ""label"": ""Destination""}]"
+Réservation Saint-Étienne → Brest,NOT_TRIP,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Bom dia,NOT_FRENCH,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Y a-t-il encore de la place Parakou - Perpignan,NOT_TRIP,[]
+euh...,UNKNOWN,[]
+...,UNKNOWN,[]
+bg,UNKNOWN,[]
+Bonne journée,NOT_TRIP,[]
+zzz,UNKNOWN,[]
+Comment commander un billet Marseille Abomey,NOT_TRIP,[]
+Je dois effectuer le trajet Nîmes Nice,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 34, ""end"": 38, ""label"": ""Destination""}]"
+Est-ce que je peux réserver pour Lille Sakété,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Le Mans vers Strasbourg,TRIP,"[{""start"": 31, ""end"": 38, ""label"": ""Departure""}, {""start"": 44, ""end"": 54, ""label"": ""Destination""}]"
+Guten Tag,NOT_FRENCH,[]
+Pouvez-vous me donner un billet de Marseille à Toulon,NOT_TRIP,[]
+"Hello, how are you?",NOT_FRENCH,[]
+de Lyon vers Angers,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 13, ""end"": 19, ""label"": ""Destination""}]"
+Argenteuil → Orléans,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 20, ""label"": ""Destination""}]"
+lol lol lol,UNKNOWN,[]
+Nantes / Brest,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 14, ""label"": ""Destination""}]"
+De Annecy à Strasbourg,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Amiens - Bassila,NOT_TRIP,[]
+Je vais à Boulogne-Billancourt depuis Limoges cet après-midi,TRIP,"[{""start"": 38, ""end"": 45, ""label"": ""Departure""}, {""start"": 10, ""end"": 30, ""label"": ""Destination""}]"
+Combien coûte Paris - Savé,NOT_TRIP,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+Y a-t-il un train Perpignan-Allada,NOT_TRIP,[]
+Comment aller de Strasbourg à Montreuil,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 39, ""label"": ""Destination""}]"
+Départ: Le Havre Destination: Malanville,TRIP,"[{""start"": 8, ""end"": 16, ""label"": ""Departure""}, {""start"": 30, ""end"": 40, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Saint-Denis à Abomey,NOT_TRIP,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Guten Tag,NOT_FRENCH,[]
+Je pars de Montreuil vers Nantes pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 20, ""label"": ""Departure""}, {""start"": 26, ""end"": 32, ""label"": ""Destination""}]"
+À quelle heure part le train de Nancy à Perpignan,NOT_TRIP,[]
+hahaha,UNKNOWN,[]
+De Savé à Orléans,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+depuis Metz jusqu'à Kétou,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 25, ""label"": ""Destination""}]"
+Thank you very much,NOT_FRENCH,[]
+hein?,UNKNOWN,[]
+Puis-je commander un aller simple pour Le Havre Cotonou,NOT_TRIP,[]
+de Lokossa vers Brest,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 21, ""label"": ""Destination""}]"
+depuis Nantes jusqu'à Abomey,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 28, ""label"": ""Destination""}]"
+Necesito ir a Sevilla,NOT_FRENCH,[]
+De Limoges jusqu'à Caen,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+Aller de Mulhouse vers Ouidah,TRIP,"[{""start"": 9, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 29, ""label"": ""Destination""}]"
+depuis Nancy jusqu'à Toulon,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 27, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Lyon vers Nice,TRIP,"[{""start"": 41, ""end"": 45, ""label"": ""Departure""}, {""start"": 51, ""end"": 55, ""label"": ""Destination""}]"
+"Good morning, I need assistance",NOT_FRENCH,[]
+Merci pour votre aide,NOT_TRIP,[]
+de Nancy à Le Havre,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 19, ""label"": ""Destination""}]"
+Je voyage ce soir de Strasbourg vers Malanville,TRIP,"[{""start"": 21, ""end"": 31, ""label"": ""Departure""}, {""start"": 37, ""end"": 47, ""label"": ""Destination""}]"
+C'è un treno per Roma?,NOT_FRENCH,[]
+Djougou - Angers,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Argenteuil - Villeurbanne,NOT_TRIP,[]
+oklm,UNKNOWN,[]
+Je désire un trajet de Nantes à Tours,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 37, ""label"": ""Destination""}]"
+???,UNKNOWN,[]
+Départ: Bordeaux Destination: Pobè,TRIP,"[{""start"": 8, ""end"": 16, ""label"": ""Departure""}, {""start"": 30, ""end"": 34, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Perpignan à Nancy,NOT_TRIP,[]
+Je souhaite me déplacer de Montreuil à Lille,TRIP,"[{""start"": 27, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 44, ""label"": ""Destination""}]"
+Il faut que j'aille de Djougou à Strasbourg,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 43, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Bassila Porto-Novo,TRIP,"[{""start"": 44, ""end"": 51, ""label"": ""Departure""}, {""start"": 52, ""end"": 62, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Il reste des places pour Nancy Argenteuil,NOT_TRIP,[]
+C'est possible d'aller de Porto-Novo à Metz,TRIP,"[{""start"": 26, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 43, ""label"": ""Destination""}]"
+Brest - Saint-Étienne,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 21, ""label"": ""Destination""}]"
+Is there a train to London?,NOT_FRENCH,[]
+Je cherche un train Nantes Kandi,NOT_TRIP,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Pourrais-je avoir un trajet Parakou - Tchaourou,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 47, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Nikki Nancy,NOT_TRIP,[]
+Les horaires pour aller de Besançon à Djougou,NOT_TRIP,[]
+Nikki → Cotonou,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 15, ""label"": ""Destination""}]"
+Sakété Allada,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 7, ""end"": 13, ""label"": ""Destination""}]"
+de Boulogne-Billancourt à Angers,TRIP,"[{""start"": 3, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 32, ""label"": ""Destination""}]"
+Comment aller de Strasbourg à Annecy,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 36, ""label"": ""Destination""}]"
+Quels sont les horaires de train pour Ouidah Parakou,NOT_TRIP,[]
+Angers - Saint-Denis,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 20, ""label"": ""Destination""}]"
+Caen - Nice,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 11, ""label"": ""Destination""}]"
+de Caen vers Lokossa,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 13, ""end"": 20, ""label"": ""Destination""}]"
+depuis Montpellier jusqu'à Allada,TRIP,"[{""start"": 7, ""end"": 18, ""label"": ""Departure""}, {""start"": 27, ""end"": 33, ""label"": ""Destination""}]"
+Je veux aller de Porto-Novo à Montpellier,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 41, ""label"": ""Destination""}]"
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+azertyuiop,UNKNOWN,[]
+Prix du trajet Montreuil Lille,NOT_TRIP,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+¿A qué hora sale el tren?,NOT_FRENCH,[]
+lol lol lol,UNKNOWN,[]
+Je rentre à Djougou depuis Besançon,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 12, ""end"": 19, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Je pars demain de Saint-Denis à Metz,TRIP,"[{""start"": 18, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 36, ""label"": ""Destination""}]"
+Trajet Lyon → Bohicon,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 21, ""label"": ""Destination""}]"
+I would like a ticket to Manchester,NOT_FRENCH,[]
+Savé / Allada,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 13, ""label"": ""Destination""}]"
+Annecy / Dijon,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 14, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Je pars de Paris vers Savé pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 26, ""label"": ""Destination""}]"
+Je veux un billet Savé Lyon,NOT_TRIP,[]
+Avez-vous des trains pour Toulon Allada,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Saint-Étienne vers Bordeaux,TRIP,"[{""start"": 41, ""end"": 54, ""label"": ""Departure""}, {""start"": 60, ""end"": 68, ""label"": ""Destination""}]"
+Les horaires pour aller de Brest à Besançon,NOT_TRIP,[]
+Réservation Abomey → Annecy,NOT_TRIP,[]
+Quels trains sont disponibles de Orléans à Toulon,NOT_TRIP,[]
+de Perpignan vers Paris,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 18, ""end"": 23, ""label"": ""Destination""}]"
+Je dois aller de Rouen à Paris pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 30, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Natitingou Ouidah,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 39, ""end"": 45, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Cotonou à Allada,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 43, ""label"": ""Destination""}]"
+Je voudrais réserver Bordeaux Kandi,NOT_TRIP,[]
+Is there a train to London?,NOT_FRENCH,[]
+Je vais de Paris à Grenoble pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 27, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+uzww,UNKNOWN,[]
+...,UNKNOWN,[]
+What time does the train leave?,NOT_FRENCH,[]
+Y a-t-il encore de la place Nikki - Boulogne-Billancourt,NOT_TRIP,[]
+Je vais à Parakou depuis Kétou cet après-midi,TRIP,"[{""start"": 25, ""end"": 30, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+hein?,UNKNOWN,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Avez-vous des trains pour Marseille Cotonou,NOT_TRIP,[]
+Je voudrais réserver Bohicon Tours,NOT_TRIP,[]
+Grazie mille,NOT_FRENCH,[]
+J'aimerais aller de Strasbourg à Abomey,TRIP,"[{""start"": 20, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Le Havre → Pobè,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 15, ""label"": ""Destination""}]"
+Je vais de Villeurbanne à Brest pour affaires,TRIP,"[{""start"": 11, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Abomey vers Perpignan,TRIP,"[{""start"": 31, ""end"": 37, ""label"": ""Departure""}, {""start"": 43, ""end"": 52, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Je dois aller de Perpignan à Bordeaux pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 37, ""label"": ""Destination""}]"
+oklm,UNKNOWN,[]
+Bordeaux → Bassila,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 18, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Nice vers Besançon,TRIP,"[{""start"": 31, ""end"": 35, ""label"": ""Departure""}, {""start"": 41, ""end"": 49, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Besançon à Perpignan,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 47, ""label"": ""Destination""}]"
+Kandi → Strasbourg,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 18, ""label"": ""Destination""}]"
+Malanville / Allada,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 19, ""label"": ""Destination""}]"
+Il faut que j'aille de Natitingou à Rennes,TRIP,"[{""start"": 23, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 42, ""label"": ""Destination""}]"
+Horaires de train Kétou - Metz,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Je dois effectuer le trajet Rouen Toulouse,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 34, ""end"": 42, ""label"": ""Destination""}]"
+Bordeaux - Kandi,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 16, ""label"": ""Destination""}]"
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Trajet de Kétou à Aix-en-Provence pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 33, ""label"": ""Destination""}]"
+De Strasbourg jusqu'à Metz,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 26, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Lyon à Malanville,NOT_TRIP,[]
+Je pars demain de Boulogne-Billancourt à Toulouse,TRIP,"[{""start"": 18, ""end"": 38, ""label"": ""Departure""}, {""start"": 41, ""end"": 49, ""label"": ""Destination""}]"
+Je pars demain de Dijon à Reims,TRIP,"[{""start"": 18, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Bonne journée,NOT_TRIP,[]
+Je désire un trajet de Abomey à Malanville,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 42, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Je veux aller de Nancy à Djougou,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 32, ""label"": ""Destination""}]"
+Je désire un trajet de Bordeaux à Saint-Denis,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 45, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Tours à Nantes,TRIP,"[{""start"": 38, ""end"": 43, ""label"": ""Departure""}, {""start"": 46, ""end"": 52, ""label"": ""Destination""}]"
+C'è un treno per Roma?,NOT_FRENCH,[]
+Je dois me rendre de Rouen à Rennes,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Cotonou → Allada,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Je veux un billet Sakété Montpellier,NOT_TRIP,[]
+Prix du trajet Savé Montreuil,NOT_TRIP,[]
+depuis Porto-Novo jusqu'à Le Mans,TRIP,"[{""start"": 7, ""end"": 17, ""label"": ""Departure""}, {""start"": 26, ""end"": 33, ""label"": ""Destination""}]"
+Un billet pour Le Mans Toulon,NOT_TRIP,[]
+Je désire un trajet de Dijon à Paris,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Bordeaux vers Brest,TRIP,"[{""start"": 41, ""end"": 49, ""label"": ""Departure""}, {""start"": 55, ""end"": 60, ""label"": ""Destination""}]"
+Je dois aller de Djougou à Saint-Étienne pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 40, ""label"": ""Destination""}]"
+Combien coûte Orléans - Parakou,NOT_TRIP,[]
+Avez-vous des disponibilités pour un trajet Saint-Étienne Annecy,TRIP,"[{""start"": 44, ""end"": 57, ""label"": ""Departure""}, {""start"": 58, ""end"": 64, ""label"": ""Destination""}]"
+Pouvez-vous me donner les horaires Savé Dijon,NOT_TRIP,[]
+Puis-je commander un aller simple pour Kétou Montreuil,NOT_TRIP,[]
+Pouvez-vous me trouver un train de Toulouse à Lyon,NOT_TRIP,[]
+I would like a ticket to Manchester,NOT_FRENCH,[]
+Je dois me rendre de Lyon à Marseille,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 37, ""label"": ""Destination""}]"
+Je voyage ce soir de Villeurbanne vers Lyon,TRIP,"[{""start"": 21, ""end"": 33, ""label"": ""Departure""}, {""start"": 39, ""end"": 43, ""label"": ""Destination""}]"
+Je dois me rendre de Caen à Comè,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 32, ""label"": ""Destination""}]"
+De Perpignan à Malanville,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 25, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Kétou à Annecy,TRIP,"[{""start"": 38, ""end"": 43, ""label"": ""Departure""}, {""start"": 46, ""end"": 52, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Metz vers Dijon,TRIP,"[{""start"": 41, ""end"": 45, ""label"": ""Departure""}, {""start"": 51, ""end"": 56, ""label"": ""Destination""}]"
+depuis Djougou jusqu'à Nancy,TRIP,"[{""start"": 7, ""end"": 14, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+Guten Tag,NOT_FRENCH,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Comment aller de Bordeaux à Aix-en-Provence,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 43, ""label"": ""Destination""}]"
+De Angers à Kétou,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+C'est possible d'aller de Kétou à Allada,TRIP,"[{""start"": 26, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 40, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Perpignan - Tchaourou,TRIP,"[{""start"": 28, ""end"": 37, ""label"": ""Departure""}, {""start"": 40, ""end"": 49, ""label"": ""Destination""}]"
+Allada Djougou,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 7, ""end"": 14, ""label"": ""Destination""}]"
+lol lol lol,UNKNOWN,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Je rentre à Bordeaux depuis Brest,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 12, ""end"": 20, ""label"": ""Destination""}]"
+Buongiorno,NOT_FRENCH,[]
+Il reste des places pour Pobè Dijon,NOT_TRIP,[]
+Je désire un trajet de Reims à Rouen,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Je dois aller de Bohicon à Nîmes pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 32, ""label"": ""Destination""}]"
+Trajet Orléans → Lokossa,TRIP,"[{""start"": 7, ""end"": 14, ""label"": ""Departure""}, {""start"": 17, ""end"": 24, ""label"": ""Destination""}]"
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Je vais de Toulon à Argenteuil pour affaires,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 30, ""label"": ""Destination""}]"
+hahaha,UNKNOWN,[]
+Je compte partir de Lille vers Allada,TRIP,"[{""start"": 20, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 37, ""label"": ""Destination""}]"
+Comment prendre un billet Limoges Le Mans,NOT_TRIP,[]
+De Saint-Étienne à Orléans,TRIP,"[{""start"": 3, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 26, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Perpignan à Aix-en-Provence,TRIP,"[{""start"": 38, ""end"": 47, ""label"": ""Departure""}, {""start"": 50, ""end"": 65, ""label"": ""Destination""}]"
+Je vais de Rennes à Lille pour affaires,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 25, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Pouvez-vous me donner un billet de Marseille à Natitingou,NOT_TRIP,[]
+Quels trains sont disponibles de Villeurbanne à Le Mans,NOT_TRIP,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+What time does the train leave?,NOT_FRENCH,[]
+Bom dia,NOT_FRENCH,[]
+Je me déplace la semaine prochaine de Porto-Novo à Villeurbanne,TRIP,"[{""start"": 38, ""end"": 48, ""label"": ""Departure""}, {""start"": 51, ""end"": 63, ""label"": ""Destination""}]"
+Comment commander un billet Bordeaux Amiens,NOT_TRIP,[]
+Je dois effectuer le trajet Nantes Marseille,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 35, ""end"": 44, ""label"": ""Destination""}]"
+Je pars de Rennes vers Le Mans pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 30, ""label"": ""Destination""}]"
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Je pars de Djougou vers Brest pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 24, ""end"": 29, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Le Mans Nîmes,NOT_TRIP,[]
+Je dois aller de Bordeaux à Le Mans pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 35, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Je pars de Brest vers Nice pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 26, ""label"": ""Destination""}]"
+Départ: Parakou Destination: Abomey,TRIP,"[{""start"": 8, ""end"": 15, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+oklm,UNKNOWN,[]
+Angers - Nice,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 13, ""label"": ""Destination""}]"
+Je veux aller de Natitingou à Djougou,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 37, ""label"": ""Destination""}]"
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+C'est possible d'aller de Annecy à Perpignan,TRIP,"[{""start"": 26, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 44, ""label"": ""Destination""}]"
+de Angers à Marseille,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 21, ""label"": ""Destination""}]"
+grrr,UNKNOWN,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Trajet Nancy → Paris,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 20, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Lokossa Argenteuil,NOT_TRIP,[]
+Avez-vous des trains pour Annecy Abomey,NOT_TRIP,[]
+Horaires de train Aix-en-Provence - Abomey,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Pourrais-je avoir un trajet Allada - Djougou,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 44, ""label"": ""Destination""}]"
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Il faut que j'aille de Aix-en-Provence à Pobè,TRIP,"[{""start"": 23, ""end"": 38, ""label"": ""Departure""}, {""start"": 41, ""end"": 45, ""label"": ""Destination""}]"
+hahaha,UNKNOWN,[]
+Comment prendre un billet Rennes Caen,NOT_TRIP,[]
+Je voyage ce soir de Perpignan vers Villeurbanne,TRIP,"[{""start"": 21, ""end"": 30, ""label"": ""Departure""}, {""start"": 36, ""end"": 48, ""label"": ""Destination""}]"
+azertyuiop,UNKNOWN,[]
+Il reste des places pour Bohicon Caen,NOT_TRIP,[]
+I need to go to Birmingham,NOT_FRENCH,[]
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Je rentre à Kétou depuis Tours,TRIP,"[{""start"": 25, ""end"": 30, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Avez-vous des places disponibles pour Kandi Pobè,NOT_TRIP,[]
+Aller de Bohicon vers Natitingou,TRIP,"[{""start"": 9, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 32, ""label"": ""Destination""}]"
+de Abomey vers Amiens,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 15, ""end"": 21, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+Il reste des places pour Nîmes Porto-Novo,NOT_TRIP,[]
+Je désire un trajet de Tours à Dijon,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Lyon - Cotonou,NOT_TRIP,[]
+Je cherche un train Rennes Marseille,NOT_TRIP,[]
+Pourrais-je avoir un trajet Besançon - Lille,TRIP,"[{""start"": 28, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 44, ""label"": ""Destination""}]"
+Je dois me rendre de Nice à Le Mans,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 35, ""label"": ""Destination""}]"
+Il reste des places pour Nîmes Comè,NOT_TRIP,[]
+de Reims à Metz,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 15, ""label"": ""Destination""}]"
+¿A qué hora sale el tren?,NOT_FRENCH,[]
+Je voudrais réserver Le Havre Mulhouse,NOT_TRIP,[]
+!!!,UNKNOWN,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+Goedemorgen,NOT_FRENCH,[]
+Les horaires pour aller de Reims à Caen,NOT_TRIP,[]
+Je voyage ce soir de Bordeaux vers Caen,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 35, ""end"": 39, ""label"": ""Destination""}]"
+De Allada jusqu'à Grenoble,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 18, ""end"": 26, ""label"": ""Destination""}]"
+Amiens → Nantes,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 15, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Nice à Angers,TRIP,"[{""start"": 38, ""end"": 42, ""label"": ""Departure""}, {""start"": 45, ""end"": 51, ""label"": ""Destination""}]"
+Réservation Lille → Rennes,NOT_TRIP,[]
+Je vais de Brest à Malanville pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 29, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Toulouse à Nikki,NOT_TRIP,[]
+Je désire un aller-retour de Nantes vers Amiens,NOT_TRIP,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Est-ce que je peux réserver pour Djougou Besançon,NOT_TRIP,[]
+Je dois me rendre de Metz à Malanville,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 38, ""label"": ""Destination""}]"
+Prix du trajet Clermont-Ferrand Brest,NOT_TRIP,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+Avez-vous des places disponibles pour Saint-Denis Argenteuil,NOT_TRIP,[]
+Puis-je commander un aller simple pour Orléans Nikki,NOT_TRIP,[]
+de Perpignan vers Toulon,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 18, ""end"": 24, ""label"": ""Destination""}]"
+Je vais à Reims depuis Lille cet après-midi,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+grrr,UNKNOWN,[]
+Je veux un billet Bohicon Saint-Denis,NOT_TRIP,[]
+Pourrais-je avoir un trajet Malanville - Tchaourou,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 41, ""end"": 50, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Le Mans à Mulhouse,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 45, ""label"": ""Destination""}]"
+Quel est le prix du billet Paris Limoges,NOT_TRIP,[]
+Je dois me rendre de Le Havre à Nantes,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 38, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Quel est le prix du billet Mulhouse Limoges,NOT_TRIP,[]
+Prix du trajet Nancy Limoges,NOT_TRIP,[]
+Avez-vous des trains pour Lille Le Havre,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Allada vers Savé,TRIP,"[{""start"": 31, ""end"": 37, ""label"": ""Departure""}, {""start"": 43, ""end"": 47, ""label"": ""Destination""}]"
+J'aimerais aller de Toulouse à Allada,TRIP,"[{""start"": 20, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 37, ""label"": ""Destination""}]"
+Gracias por su ayuda,NOT_FRENCH,[]
+Trajet Le Mans → Grenoble,TRIP,"[{""start"": 7, ""end"": 14, ""label"": ""Departure""}, {""start"": 17, ""end"": 25, ""label"": ""Destination""}]"
+Trains disponibles Nice → Annecy,NOT_TRIP,[]
+Je vais de Argenteuil à Montpellier pour affaires,TRIP,"[{""start"": 11, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 35, ""label"": ""Destination""}]"
+C'est possible d'aller de Mulhouse à Clermont-Ferrand,TRIP,"[{""start"": 26, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 53, ""label"": ""Destination""}]"
+Il reste des places pour Strasbourg Toulon,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Quero um bilhete para Porto,NOT_FRENCH,[]
+Grazie mille,NOT_FRENCH,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Tarifs pour Reims Cotonou,NOT_TRIP,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Y a-t-il encore de la place Savé - Tchaourou,NOT_TRIP,[]
+Puis-je commander un aller simple pour Allada Djougou,NOT_TRIP,[]
+Je rentre à Argenteuil depuis Reims,TRIP,"[{""start"": 30, ""end"": 35, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Horaires de train Le Mans - Bordeaux,NOT_TRIP,[]
+Je voyage ce soir de Caen vers Dijon,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 36, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+C'est possible d'aller de Lokossa à Tchaourou,TRIP,"[{""start"": 26, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 45, ""label"": ""Destination""}]"
+Je pars de Kandi vers Saint-Denis pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 33, ""label"": ""Destination""}]"
+Avez-vous des trains pour Cotonou Boulogne-Billancourt,NOT_TRIP,[]
+Quels sont les horaires de train pour Sakété Montpellier,NOT_TRIP,[]
+Buenos días,NOT_FRENCH,[]
+Avez-vous des places disponibles pour Brest Rouen,NOT_TRIP,[]
+Y a-t-il un train Brest-Tours,NOT_TRIP,[]
+De Ouidah à Toulouse,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 20, ""label"": ""Destination""}]"
+Danke schön,NOT_FRENCH,[]
+Je pars demain de Mulhouse à Bordeaux,TRIP,"[{""start"": 18, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 37, ""label"": ""Destination""}]"
+Je dois me rendre de Tours à Mulhouse,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 37, ""label"": ""Destination""}]"
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+J'aimerais une réservation Kandi - Clermont-Ferrand,NOT_TRIP,[]
+Je désire un aller-retour de Reims vers Dijon,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Je vais de Montpellier à Lokossa pour affaires,TRIP,"[{""start"": 11, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 32, ""label"": ""Destination""}]"
+Can you help me find a train?,NOT_FRENCH,[]
+Train schedule please,NOT_FRENCH,[]
+Danke schön,NOT_FRENCH,[]
+Comment aller de Boulogne-Billancourt à Parakou,TRIP,"[{""start"": 17, ""end"": 37, ""label"": ""Departure""}, {""start"": 40, ""end"": 47, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Bordeaux à Montpellier,TRIP,"[{""start"": 38, ""end"": 46, ""label"": ""Departure""}, {""start"": 49, ""end"": 60, ""label"": ""Destination""}]"
+Quels trains sont disponibles de Villeurbanne à Comè,NOT_TRIP,[]
+de Toulouse à Caen,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 18, ""label"": ""Destination""}]"
+depuis Lyon jusqu'à Saint-Étienne,TRIP,"[{""start"": 7, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 33, ""label"": ""Destination""}]"
+J'aimerais aller de Abomey à Natitingou,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 39, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Y a-t-il encore de la place Nîmes - Toulon,NOT_TRIP,[]
+lol lol lol,UNKNOWN,[]
+Quels sont les horaires de train pour Bordeaux Brest,NOT_TRIP,[]
+Je désire un aller-retour de Nikki vers Dijon,NOT_TRIP,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+iiii,UNKNOWN,[]
+Avez-vous des disponibilités pour un trajet Montreuil Mulhouse,TRIP,"[{""start"": 44, ""end"": 53, ""label"": ""Departure""}, {""start"": 54, ""end"": 62, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Kandi Nantes,TRIP,"[{""start"": 44, ""end"": 49, ""label"": ""Departure""}, {""start"": 50, ""end"": 56, ""label"": ""Destination""}]"
+Tarifs pour Clermont-Ferrand Natitingou,NOT_TRIP,[]
+Aller de Malanville vers Savé,TRIP,"[{""start"": 9, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 29, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Avez-vous des places disponibles pour Rennes Paris,NOT_TRIP,[]
+???,UNKNOWN,[]
+Horaires de train Nantes - Allada,NOT_TRIP,[]
+Je dois effectuer le trajet Nîmes Rennes,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 34, ""end"": 40, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Y a-t-il un train Montreuil-Dijon,NOT_TRIP,[]
+Pouvez-vous me donner un billet de Le Mans à Grenoble,NOT_TRIP,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Réservation Toulouse → Metz,NOT_TRIP,[]
+Comment aller de Amiens à Angers,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 32, ""label"": ""Destination""}]"
+Prix du trajet Tours Tchaourou,NOT_TRIP,[]
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Tarifs pour Comè Nikki,NOT_TRIP,[]
+Je veux aller de Montpellier à Aix-en-Provence,TRIP,"[{""start"": 17, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 46, ""label"": ""Destination""}]"
+Toulouse Villeurbanne,TRIP,"[{""start"": 0, ""end"": 8, ""label"": ""Departure""}, {""start"": 9, ""end"": 21, ""label"": ""Destination""}]"
+Je vais à Caen depuis Nantes cet après-midi,TRIP,"[{""start"": 22, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 14, ""label"": ""Destination""}]"
+Pobè → Bohicon,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 14, ""label"": ""Destination""}]"
+Départ: Reims Destination: Tchaourou,TRIP,"[{""start"": 8, ""end"": 13, ""label"": ""Departure""}, {""start"": 27, ""end"": 36, ""label"": ""Destination""}]"
+hein?,UNKNOWN,[]
+Goedemorgen,NOT_FRENCH,[]
+J'aimerais une réservation Nikki - Tchaourou,NOT_TRIP,[]
+Bom dia,NOT_FRENCH,[]
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Obrigado,NOT_FRENCH,[]
+Quels trains sont disponibles de Cotonou à Pobè,NOT_TRIP,[]
+Je veux un billet Pobè Montpellier,NOT_TRIP,[]
+Combien coûte Bordeaux - Montpellier,NOT_TRIP,[]
+Je vais à Le Havre depuis Saint-Étienne cet après-midi,TRIP,"[{""start"": 26, ""end"": 39, ""label"": ""Departure""}, {""start"": 10, ""end"": 18, ""label"": ""Destination""}]"
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Je dois me rendre de Paris à Le Havre,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 37, ""label"": ""Destination""}]"
+Pouvez-vous me donner les horaires Clermont-Ferrand Marseille,NOT_TRIP,[]
+Avez-vous des trains pour Comè Lokossa,NOT_TRIP,[]
+Je veux un billet Grenoble Mulhouse,NOT_TRIP,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Prix du trajet Perpignan Argenteuil,NOT_TRIP,[]
+Grazie mille,NOT_FRENCH,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Avez-vous des places disponibles pour Saint-Étienne Rennes,NOT_TRIP,[]
+Vorrei un biglietto per Milano,NOT_FRENCH,[]
+Bonne journée,NOT_TRIP,[]
+Aller de Strasbourg vers Nantes,TRIP,"[{""start"": 9, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+depuis Grenoble jusqu'à Porto-Novo,TRIP,"[{""start"": 7, ""end"": 15, ""label"": ""Departure""}, {""start"": 24, ""end"": 34, ""label"": ""Destination""}]"
+Je compte partir de Mulhouse vers Brest,TRIP,"[{""start"": 20, ""end"": 28, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Villeurbanne à Nîmes,TRIP,"[{""start"": 27, ""end"": 39, ""label"": ""Departure""}, {""start"": 42, ""end"": 47, ""label"": ""Destination""}]"
+Il faut que j'aille de Savé à Natitingou,TRIP,"[{""start"": 23, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 40, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Départ: Amiens Destination: Montpellier,TRIP,"[{""start"": 8, ""end"": 14, ""label"": ""Departure""}, {""start"": 28, ""end"": 39, ""label"": ""Destination""}]"
+de Abomey vers Argenteuil,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 15, ""end"": 25, ""label"": ""Destination""}]"
+Trajet de Rennes à Ouidah pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 25, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Amiens à Pobè,NOT_TRIP,[]
+Guten Tag,NOT_FRENCH,[]
+A que horas sai o comboio?,NOT_FRENCH,[]
+Pouvez-vous me trouver un train de Malanville à Natitingou,NOT_TRIP,[]
+J'aimerais aller de Lokossa à Annecy,TRIP,"[{""start"": 20, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 36, ""label"": ""Destination""}]"
+Je voyage ce soir de Abomey vers Cotonou,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 33, ""end"": 40, ""label"": ""Destination""}]"
+Pouvez-vous me donner les horaires Bohicon Marseille,NOT_TRIP,[]
+Y a-t-il un train Bassila-Porto-Novo,NOT_TRIP,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+quoi?,UNKNOWN,[]
+Avez-vous des disponibilités pour un trajet Grenoble Mulhouse,TRIP,"[{""start"": 44, ""end"": 52, ""label"": ""Departure""}, {""start"": 53, ""end"": 61, ""label"": ""Destination""}]"
+De Metz à Nancy,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Je vais à Paris depuis Le Havre cet après-midi,TRIP,"[{""start"": 23, ""end"": 31, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+Train schedule please,NOT_FRENCH,[]
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Guten Tag,NOT_FRENCH,[]
+Quel est le meilleur moyen pour aller de Djougou vers Parakou,TRIP,"[{""start"": 41, ""end"": 48, ""label"": ""Departure""}, {""start"": 54, ""end"": 61, ""label"": ""Destination""}]"
+Aller de Orléans vers Montreuil,TRIP,"[{""start"": 9, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 31, ""label"": ""Destination""}]"
+Y a-t-il un train Comè-Kétou,NOT_TRIP,[]
+Je voyage ce soir de Bohicon vers Strasbourg,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 34, ""end"": 44, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Bordeaux à Amiens,TRIP,"[{""start"": 27, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 44, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Strasbourg Mulhouse,TRIP,"[{""start"": 28, ""end"": 38, ""label"": ""Departure""}, {""start"": 39, ""end"": 47, ""label"": ""Destination""}]"
+azertyuiop,UNKNOWN,[]
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Je souhaite obtenir mon trajet Lyon vers Pobè,TRIP,"[{""start"": 31, ""end"": 35, ""label"": ""Departure""}, {""start"": 41, ""end"": 45, ""label"": ""Destination""}]"
+Je dois aller de Mulhouse à Bordeaux pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 36, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Y a-t-il encore de la place Nantes - Annecy,NOT_TRIP,[]
+A que horas sai o comboio?,NOT_FRENCH,[]
+Aller de Clermont-Ferrand vers Bohicon,TRIP,"[{""start"": 9, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 38, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Abomey à Perpignan,TRIP,"[{""start"": 38, ""end"": 44, ""label"": ""Departure""}, {""start"": 47, ""end"": 56, ""label"": ""Destination""}]"
+Je dois me rendre de Caen à Savé,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 32, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+Horaires de train Reims - Le Mans,NOT_TRIP,[]
+Je voyage ce soir de Bassila vers Sakété,TRIP,"[{""start"": 21, ""end"": 28, ""label"": ""Departure""}, {""start"": 34, ""end"": 40, ""label"": ""Destination""}]"
+iiii,UNKNOWN,[]
+Lokossa - Allada,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Merci pour votre aide,NOT_TRIP,[]
+Is there a train to London?,NOT_FRENCH,[]
+wxcvbn,UNKNOWN,[]
+De Nice jusqu'à Orléans,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 16, ""end"": 23, ""label"": ""Destination""}]"
+Metz - Boulogne-Billancourt,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 27, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Kandi à Natitingou,NOT_TRIP,[]
+C'est combien pour aller de Montpellier à Ouidah,NOT_TRIP,[]
+Je souhaite me déplacer de Parakou à Orléans,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 44, ""label"": ""Destination""}]"
+de Djougou vers Marseille,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 25, ""label"": ""Destination""}]"
+de Comè à Cotonou,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 17, ""label"": ""Destination""}]"
+Puis-je commander un aller simple pour Natitingou Bassila,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Gracias por su ayuda,NOT_FRENCH,[]
+Je pars de Amiens vers Grenoble pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 31, ""label"": ""Destination""}]"
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+iiii,UNKNOWN,[]
+de Porto-Novo vers Perpignan,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 19, ""end"": 28, ""label"": ""Destination""}]"
+Tarifs pour Nîmes Caen,NOT_TRIP,[]
+Reims → Parakou,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 15, ""label"": ""Destination""}]"
+C'est combien pour aller de Nancy à Kétou,NOT_TRIP,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+Je vais à Lyon depuis Sakété cet après-midi,TRIP,"[{""start"": 22, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 14, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Lyon à Nantes,TRIP,"[{""start"": 27, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 40, ""label"": ""Destination""}]"
+!!!???,UNKNOWN,[]
+Quels sont les horaires Saint-Denis Nikki,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Kétou vers Savé,TRIP,"[{""start"": 41, ""end"": 46, ""label"": ""Departure""}, {""start"": 52, ""end"": 56, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Djougou - Saint-Denis,NOT_TRIP,[]
+C'est combien pour aller de Sakété à Metz,NOT_TRIP,[]
+depuis Lokossa jusqu'à Tchaourou,TRIP,"[{""start"": 7, ""end"": 14, ""label"": ""Departure""}, {""start"": 23, ""end"": 32, ""label"": ""Destination""}]"
+I need to go to Birmingham,NOT_FRENCH,[]
+Quel est le meilleur moyen pour aller de Lille vers Rennes,TRIP,"[{""start"": 41, ""end"": 46, ""label"": ""Departure""}, {""start"": 52, ""end"": 58, ""label"": ""Destination""}]"
+Quel est le prix du billet Djougou Toulon,NOT_TRIP,[]
+Quels trains sont disponibles de Strasbourg à Bordeaux,NOT_TRIP,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+...........,UNKNOWN,[]
+C'est possible d'aller de Strasbourg à Bassila,TRIP,"[{""start"": 26, ""end"": 36, ""label"": ""Departure""}, {""start"": 39, ""end"": 46, ""label"": ""Destination""}]"
+de Parakou vers Bordeaux,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 24, ""label"": ""Destination""}]"
+De Le Mans à Montreuil,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 22, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Saint-Denis à Cotonou,NOT_TRIP,[]
+Horaires de train Montreuil - Saint-Denis,NOT_TRIP,[]
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Je vais à Tchaourou depuis Rouen cet après-midi,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 10, ""end"": 19, ""label"": ""Destination""}]"
+Je dois me rendre de Le Havre à Reims,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 37, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Reims - Limoges,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+Je dois aller de Mulhouse à Abomey pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 34, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Marseille - Sakété,NOT_TRIP,[]
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+Pouvez-vous me donner les horaires Bordeaux Pobè,NOT_TRIP,[]
+hahaha,UNKNOWN,[]
+depuis Marseille jusqu'à Djougou,TRIP,"[{""start"": 7, ""end"": 16, ""label"": ""Departure""}, {""start"": 25, ""end"": 32, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Le Havre - Saint-Denis,NOT_TRIP,[]
+Puis-je commander un aller simple pour Parakou Nice,NOT_TRIP,[]
+Tarifs pour Toulon Montpellier,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Quel est le prix du billet Boulogne-Billancourt Le Havre,NOT_TRIP,[]
+Pourrais-je avoir un trajet Bassila - Angers,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 44, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Je dois effectuer le trajet Dijon Saint-Étienne,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 34, ""end"": 47, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+bla bla bla,UNKNOWN,[]
+Je voyage ce soir de Grenoble vers Limoges,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 35, ""end"": 42, ""label"": ""Destination""}]"
+Montreuil - Toulon,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 18, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Le Havre Bohicon,TRIP,"[{""start"": 44, ""end"": 52, ""label"": ""Departure""}, {""start"": 53, ""end"": 60, ""label"": ""Destination""}]"
+C'est combien pour aller de Aix-en-Provence à Clermont-Ferrand,NOT_TRIP,[]
+J'aimerais une réservation Lokossa - Lyon,NOT_TRIP,[]
+I would like a ticket to Manchester,NOT_FRENCH,[]
+Un billet pour Tours Angers,NOT_TRIP,[]
+Je souhaite obtenir mon trajet Perpignan vers Lille,TRIP,"[{""start"": 31, ""end"": 40, ""label"": ""Departure""}, {""start"": 46, ""end"": 51, ""label"": ""Destination""}]"
+de Bassila à Le Mans,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 20, ""label"": ""Destination""}]"
+Félicitations pour votre travail,NOT_TRIP,[]
+Je souhaite obtenir un billet Perpignan - Ouidah,NOT_TRIP,[]
+Billet de Lille à Dijon,NOT_TRIP,[]
+depuis Besançon jusqu'à Kandi,TRIP,"[{""start"": 7, ""end"": 15, ""label"": ""Departure""}, {""start"": 24, ""end"": 29, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Grenoble vers Savé,TRIP,"[{""start"": 41, ""end"": 49, ""label"": ""Departure""}, {""start"": 55, ""end"": 59, ""label"": ""Destination""}]"
+quoi?,UNKNOWN,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Guten Tag,NOT_FRENCH,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+De Saint-Étienne jusqu'à Annecy,TRIP,"[{""start"": 3, ""end"": 16, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+Je voyage ce soir de Dijon vers Argenteuil,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 32, ""end"": 42, ""label"": ""Destination""}]"
+Tchaourou / Nantes,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 18, ""label"": ""Destination""}]"
+"Good morning, I need assistance",NOT_FRENCH,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Y a-t-il un train Bassila-Aix-en-Provence,NOT_TRIP,[]
+C'est possible d'aller de Montreuil à Le Havre,TRIP,"[{""start"": 26, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 46, ""label"": ""Destination""}]"
+Saint-Étienne / Bohicon,TRIP,"[{""start"": 0, ""end"": 13, ""label"": ""Departure""}, {""start"": 16, ""end"": 23, ""label"": ""Destination""}]"
+oklm,UNKNOWN,[]
+Trajet Nikki → Reims,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 20, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Bassila Aix-en-Provence,TRIP,"[{""start"": 44, ""end"": 51, ""label"": ""Departure""}, {""start"": 52, ""end"": 67, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Savé à Lokossa,TRIP,"[{""start"": 38, ""end"": 42, ""label"": ""Departure""}, {""start"": 45, ""end"": 52, ""label"": ""Destination""}]"
+Trajet Dijon → Mulhouse,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 23, ""label"": ""Destination""}]"
+Tarifs pour Toulouse Malanville,NOT_TRIP,[]
+Les horaires pour aller de Paris à Montreuil,NOT_TRIP,[]
+Les horaires pour aller de Mulhouse à Bassila,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Limoges vers Bordeaux,TRIP,"[{""start"": 41, ""end"": 48, ""label"": ""Departure""}, {""start"": 54, ""end"": 62, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Pouvez-vous me donner les horaires Mulhouse Cotonou,NOT_TRIP,[]
+De Nice jusqu'à Amiens,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 16, ""end"": 22, ""label"": ""Destination""}]"
+Je voudrais réserver Pobè Tchaourou,NOT_TRIP,[]
+azertyuiop,UNKNOWN,[]
+Je dois me rendre de Nantes à Tours,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+Je veux aller de Natitingou à Bordeaux,TRIP,"[{""start"": 17, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 38, ""label"": ""Destination""}]"
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+euh...,UNKNOWN,[]
+Je pars demain de Ouidah à Besançon,TRIP,"[{""start"": 18, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 35, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Les horaires pour aller de Toulouse à Marseille,NOT_TRIP,[]
+Quels trains sont disponibles de Natitingou à Besançon,NOT_TRIP,[]
+Vorrei un biglietto per Milano,NOT_FRENCH,[]
+Je pars de Besançon vers Saint-Étienne pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 25, ""end"": 38, ""label"": ""Destination""}]"
+Je souhaite obtenir un billet Djougou - Annecy,NOT_TRIP,[]
+Buenos días,NOT_FRENCH,[]
+Nantes → Montpellier,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 20, ""label"": ""Destination""}]"
+Je pars de Comè vers Saint-Étienne pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 34, ""label"": ""Destination""}]"
+Je voudrais réserver Orléans Comè,NOT_TRIP,[]
+Comment prendre un billet Argenteuil Toulon,NOT_TRIP,[]
+Pourrais-je avoir un trajet Rennes - Bassila,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 44, ""label"": ""Destination""}]"
+Je dois effectuer le trajet Sakété Rouen,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 35, ""end"": 40, ""label"": ""Destination""}]"
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+de Rennes à Dijon,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Horaires de train Malanville - Marseille,NOT_TRIP,[]
+C'est combien pour aller de Bassila à Comè,NOT_TRIP,[]
+Y a-t-il encore de la place Nice - Villeurbanne,NOT_TRIP,[]
+À quelle heure part le train de Malanville à Rouen,NOT_TRIP,[]
+Trajet de Montreuil à Nantes pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 28, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+de Strasbourg à Parakou,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 16, ""end"": 23, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Villeurbanne vers Angers,TRIP,"[{""start"": 31, ""end"": 43, ""label"": ""Departure""}, {""start"": 49, ""end"": 55, ""label"": ""Destination""}]"
+Je vais de Grenoble à Clermont-Ferrand pour affaires,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 38, ""label"": ""Destination""}]"
+Trajet Aix-en-Provence → Allada,TRIP,"[{""start"": 7, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+Avez-vous des disponibilités pour un trajet Toulouse Boulogne-Billancourt,TRIP,"[{""start"": 44, ""end"": 52, ""label"": ""Departure""}, {""start"": 53, ""end"": 73, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Nice - Pobè,TRIP,"[{""start"": 28, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 39, ""label"": ""Destination""}]"
+De Saint-Denis jusqu'à Natitingou,TRIP,"[{""start"": 3, ""end"": 14, ""label"": ""Departure""}, {""start"": 23, ""end"": 33, ""label"": ""Destination""}]"
+Il reste des places pour Bassila Tours,NOT_TRIP,[]
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Je souhaite obtenir un billet Toulon - Malanville,NOT_TRIP,[]
+uzww,UNKNOWN,[]
+Aller de Saint-Denis vers Paris,TRIP,"[{""start"": 9, ""end"": 20, ""label"": ""Departure""}, {""start"": 26, ""end"": 31, ""label"": ""Destination""}]"
+Je cherche un train Grenoble Villeurbanne,NOT_TRIP,[]
+Je vais de Le Havre à Kétou pour affaires,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 27, ""label"": ""Destination""}]"
+Trajet de Djougou à Parakou pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 27, ""label"": ""Destination""}]"
+qsdfghjklm,UNKNOWN,[]
+Tarifs pour Tchaourou Nice,NOT_TRIP,[]
+Un billet pour Le Mans Bohicon,NOT_TRIP,[]
+J'aimerais aller de Rennes à Nantes,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 35, ""label"": ""Destination""}]"
+Guten Tag,NOT_FRENCH,[]
+Quels sont les horaires de train pour Paris Metz,NOT_TRIP,[]
+Je dois aller de Nantes à Besançon pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 34, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+de Ouidah à Saint-Denis,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 23, ""label"": ""Destination""}]"
+de Malanville à Limoges,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 16, ""end"": 23, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+Trains disponibles Metz → Montpellier,NOT_TRIP,[]
+Pouvez-vous me donner un billet de Bordeaux à Le Havre,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Sakété vers Nantes,TRIP,"[{""start"": 41, ""end"": 47, ""label"": ""Departure""}, {""start"": 53, ""end"": 59, ""label"": ""Destination""}]"
+Je pars de Kétou vers Pobè pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 26, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+Je me déplace la semaine prochaine de Abomey à Tours,TRIP,"[{""start"": 38, ""end"": 44, ""label"": ""Departure""}, {""start"": 47, ""end"": 52, ""label"": ""Destination""}]"
+!!!,UNKNOWN,[]
+Rouen / Rennes,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 14, ""label"": ""Destination""}]"
+C'est possible d'aller de Aix-en-Provence à Nîmes,TRIP,"[{""start"": 26, ""end"": 41, ""label"": ""Departure""}, {""start"": 44, ""end"": 49, ""label"": ""Destination""}]"
+À quelle heure part le train de Cotonou à Natitingou,NOT_TRIP,[]
+Comment prendre un billet Savé Sakété,NOT_TRIP,[]
+...........,UNKNOWN,[]
+Horaires de train Lille - Bordeaux,NOT_TRIP,[]
+Je souhaite obtenir un billet Tours - Angers,NOT_TRIP,[]
+hahaha,UNKNOWN,[]
+De Bassila jusqu'à Comè,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+...........,UNKNOWN,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+De Le Havre jusqu'à Allada,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 26, ""label"": ""Destination""}]"
+De Kétou à Angers,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+Je dois aller de Tours à Toulouse pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 33, ""label"": ""Destination""}]"
+Je vais à Nantes depuis Metz cet après-midi,TRIP,"[{""start"": 24, ""end"": 28, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+lol lol lol,UNKNOWN,[]
+grrr,UNKNOWN,[]
+de Bohicon vers Montreuil,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 25, ""label"": ""Destination""}]"
+xD xD xD,UNKNOWN,[]
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+de Bohicon à Rennes,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 19, ""label"": ""Destination""}]"
+Je désire un trajet de Natitingou à Perpignan,TRIP,"[{""start"": 23, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 45, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Je dois aller de Djougou à Perpignan pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 36, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Les horaires pour aller de Metz à Clermont-Ferrand,NOT_TRIP,[]
+zzz,UNKNOWN,[]
+Aller de Le Havre vers Kandi,TRIP,"[{""start"": 9, ""end"": 17, ""label"": ""Departure""}, {""start"": 23, ""end"": 28, ""label"": ""Destination""}]"
+Goedemorgen,NOT_FRENCH,[]
+Natitingou → Savé,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 17, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+Billet de Angers à Reims,NOT_TRIP,[]
+!!!???,UNKNOWN,[]
+Nantes / Argenteuil,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 19, ""label"": ""Destination""}]"
+Je veux aller de Kandi à Argenteuil,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 35, ""label"": ""Destination""}]"
+I would like a ticket to Manchester,NOT_FRENCH,[]
+Départ: Clermont-Ferrand Destination: Nice,TRIP,"[{""start"": 8, ""end"": 24, ""label"": ""Departure""}, {""start"": 38, ""end"": 42, ""label"": ""Destination""}]"
+Je rentre à Comè depuis Annecy,TRIP,"[{""start"": 24, ""end"": 30, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Metz Caen,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 5, ""end"": 9, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Trains disponibles Malanville → Lyon,NOT_TRIP,[]
+De Rennes à Pobè,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Je veux aller de Mulhouse à Saint-Étienne,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 41, ""label"": ""Destination""}]"
+Quel est le meilleur moyen pour aller de Porto-Novo vers Amiens,TRIP,"[{""start"": 41, ""end"": 51, ""label"": ""Departure""}, {""start"": 57, ""end"": 63, ""label"": ""Destination""}]"
+À quelle heure part le train de Bassila à Brest,NOT_TRIP,[]
+Merci pour votre aide,NOT_TRIP,[]
+Je me déplace la semaine prochaine de Mulhouse à Dijon,TRIP,"[{""start"": 38, ""end"": 46, ""label"": ""Departure""}, {""start"": 49, ""end"": 54, ""label"": ""Destination""}]"
+"Hello, how are you?",NOT_FRENCH,[]
+qsdfghjklm,UNKNOWN,[]
+Quel est le meilleur moyen pour aller de Le Havre vers Nice,TRIP,"[{""start"": 41, ""end"": 49, ""label"": ""Departure""}, {""start"": 55, ""end"": 59, ""label"": ""Destination""}]"
+qsdfghjklm,UNKNOWN,[]
+C'est possible d'aller de Mulhouse à Toulon,TRIP,"[{""start"": 26, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 43, ""label"": ""Destination""}]"
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Pouvez-vous me donner un billet de Besançon à Metz,NOT_TRIP,[]
+Félicitations pour votre travail,NOT_TRIP,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Bom dia,NOT_FRENCH,[]
+Réservation Savé → Annecy,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Bonne journée,NOT_TRIP,[]
+¿A qué hora sale el tren?,NOT_FRENCH,[]
+de Nancy à Comè,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 15, ""label"": ""Destination""}]"
+Combien coûte Mulhouse - Djougou,NOT_TRIP,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Il reste des places pour Nice Abomey,NOT_TRIP,[]
+Is er een trein naar Amsterdam?,NOT_FRENCH,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+Je veux un billet Argenteuil Cotonou,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Nice vers Savé,TRIP,"[{""start"": 41, ""end"": 45, ""label"": ""Departure""}, {""start"": 51, ""end"": 55, ""label"": ""Destination""}]"
+grrr,UNKNOWN,[]
+Train schedule please,NOT_FRENCH,[]
+Il faut que j'aille de Nancy à Annecy,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 37, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+Y a-t-il un train Caen-Bohicon,NOT_TRIP,[]
+Buongiorno,NOT_FRENCH,[]
+Pourrais-je avoir un trajet Kétou - Annecy,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 42, ""label"": ""Destination""}]"
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+Ich möchte ein Ticket nach München,NOT_FRENCH,[]
+Je dois effectuer le trajet Aix-en-Provence Strasbourg,TRIP,"[{""start"": 28, ""end"": 43, ""label"": ""Departure""}, {""start"": 44, ""end"": 54, ""label"": ""Destination""}]"
+Hoeveel kost het om naar Utrecht te gaan?,NOT_FRENCH,[]
+Est-ce que je peux réserver pour Bassila Natitingou,NOT_TRIP,[]
+C'est possible d'aller de Annecy à Caen,TRIP,"[{""start"": 26, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 39, ""label"": ""Destination""}]"
+Je dois aller de Toulon à Saint-Denis pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 37, ""label"": ""Destination""}]"
+Je dois me rendre de Marseille à Nikki,TRIP,"[{""start"": 21, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 38, ""label"": ""Destination""}]"
+...,UNKNOWN,[]
+Je désire un trajet de Porto-Novo à Grenoble,TRIP,"[{""start"": 23, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 44, ""label"": ""Destination""}]"
+hein?,UNKNOWN,[]
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Pourrais-je avoir un trajet Brest - Bordeaux,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 44, ""label"": ""Destination""}]"
+Prix du trajet Clermont-Ferrand Villeurbanne,NOT_TRIP,[]
+uzww,UNKNOWN,[]
+À quelle heure y a-t-il des trains de Malanville à Montreuil,NOT_TRIP,[]
+Trajet de Cotonou à Angers pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 26, ""label"": ""Destination""}]"
+Je pars demain de Ouidah à Kétou,TRIP,"[{""start"": 18, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 32, ""label"": ""Destination""}]"
+Puis-je commander un aller simple pour Malanville Montreuil,NOT_TRIP,[]
+À quelle heure y a-t-il des trains de Toulouse à Nikki,NOT_TRIP,[]
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Combien coûte Caen - Cotonou,NOT_TRIP,[]
+A che ora parte il treno?,NOT_FRENCH,[]
+qsdfghjklm,UNKNOWN,[]
+Je souhaite me déplacer de Nikki à Mulhouse,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 43, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Caen à Nîmes,TRIP,"[{""start"": 27, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Devo andare a Venezia,NOT_FRENCH,[]
+Je souhaite me déplacer de Dijon à Ouidah,TRIP,"[{""start"": 27, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 41, ""label"": ""Destination""}]"
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Y a-t-il un train Le Havre-Annecy,NOT_TRIP,[]
+"Hello, how are you?",NOT_FRENCH,[]
+Avez-vous des disponibilités pour un trajet Dijon Aix-en-Provence,TRIP,"[{""start"": 44, ""end"": 49, ""label"": ""Departure""}, {""start"": 50, ""end"": 65, ""label"": ""Destination""}]"
+Je souhaite obtenir mon trajet Toulouse vers Montpellier,TRIP,"[{""start"": 31, ""end"": 39, ""label"": ""Departure""}, {""start"": 45, ""end"": 56, ""label"": ""Destination""}]"
+Aller de Toulon vers Limoges,TRIP,"[{""start"": 9, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 28, ""label"": ""Destination""}]"
+iiii,UNKNOWN,[]
+bla bla bla,UNKNOWN,[]
+Trajet Nîmes → Natitingou,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 25, ""label"": ""Destination""}]"
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+Prix du trajet Grenoble Nice,NOT_TRIP,[]
+Je pars demain de Tours à Saint-Denis,TRIP,"[{""start"": 18, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 37, ""label"": ""Destination""}]"
+hein?,UNKNOWN,[]
+Est-ce que je peux réserver pour Nantes Argenteuil,NOT_TRIP,[]
+De Abomey à Argenteuil,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 22, ""label"": ""Destination""}]"
+Goedemorgen,NOT_FRENCH,[]
+...,UNKNOWN,[]
+Je veux aller de Limoges à Kétou,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 32, ""label"": ""Destination""}]"
+Avez-vous des trains pour Montpellier Lille,NOT_TRIP,[]
+euh...,UNKNOWN,[]
+Je compte partir de Metz vers Dijon,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 30, ""end"": 35, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Aix-en-Provence à Nikki,NOT_TRIP,[]
+de Lokossa vers Lille,TRIP,"[{""start"": 3, ""end"": 10, ""label"": ""Departure""}, {""start"": 16, ""end"": 21, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Paris - Lokossa,NOT_TRIP,[]
+Je vais à Argenteuil depuis Villeurbanne cet après-midi,TRIP,"[{""start"": 28, ""end"": 40, ""label"": ""Departure""}, {""start"": 10, ""end"": 20, ""label"": ""Destination""}]"
+Quel est le prix du billet Tchaourou Marseille,NOT_TRIP,[]
+Est-ce que je peux réserver pour Dijon Parakou,NOT_TRIP,[]
+Je dois aller de Montpellier à Aix-en-Provence pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 46, ""label"": ""Destination""}]"
+Je dois aller de Caen à Paris pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 21, ""label"": ""Departure""}, {""start"": 24, ""end"": 29, ""label"": ""Destination""}]"
+Je dois me rendre de Sakété à Allada,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 36, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Je voyage ce soir de Savé vers Ouidah,TRIP,"[{""start"": 21, ""end"": 25, ""label"": ""Departure""}, {""start"": 31, ""end"": 37, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+Quels sont les horaires Nantes Angers,NOT_TRIP,[]
+Je pars de Limoges vers Malanville pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 18, ""label"": ""Departure""}, {""start"": 24, ""end"": 34, ""label"": ""Destination""}]"
+Je dois me rendre de Abomey à Natitingou,TRIP,"[{""start"": 21, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 40, ""label"": ""Destination""}]"
+!!!,UNKNOWN,[]
+Avez-vous des disponibilités pour un trajet Nancy Toulon,TRIP,"[{""start"": 44, ""end"": 49, ""label"": ""Departure""}, {""start"": 50, ""end"": 56, ""label"": ""Destination""}]"
+de Caen à Lille,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 15, ""label"": ""Destination""}]"
+Quels trains sont disponibles de Annecy à Le Havre,NOT_TRIP,[]
+de Angers vers Malanville,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 15, ""end"": 25, ""label"": ""Destination""}]"
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Quels sont les horaires Besançon Natitingou,NOT_TRIP,[]
+Je me déplace la semaine prochaine de Marseille à Rouen,TRIP,"[{""start"": 38, ""end"": 47, ""label"": ""Departure""}, {""start"": 50, ""end"": 55, ""label"": ""Destination""}]"
+A que horas sai o comboio?,NOT_FRENCH,[]
+Bom dia,NOT_FRENCH,[]
+!!!???,UNKNOWN,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+wxcvbn,UNKNOWN,[]
+Il reste des places pour Strasbourg Tchaourou,NOT_TRIP,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+Horarios de tren por favor,NOT_FRENCH,[]
+Bassila - Montreuil,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 19, ""label"": ""Destination""}]"
+A che ora parte il treno?,NOT_FRENCH,[]
+Quels trains sont disponibles de Toulouse à Kétou,NOT_TRIP,[]
+"Hello, how are you?",NOT_FRENCH,[]
+Avez-vous des disponibilités pour un trajet Clermont-Ferrand Nice,TRIP,"[{""start"": 44, ""end"": 60, ""label"": ""Departure""}, {""start"": 61, ""end"": 65, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Mulhouse à Saint-Denis,TRIP,"[{""start"": 38, ""end"": 46, ""label"": ""Departure""}, {""start"": 49, ""end"": 60, ""label"": ""Destination""}]"
+Je pars demain de Montpellier à Kétou,TRIP,"[{""start"": 18, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 37, ""label"": ""Destination""}]"
+Trajet Boulogne-Billancourt → Le Havre,TRIP,"[{""start"": 7, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 38, ""label"": ""Destination""}]"
+Je désire un trajet de Bassila à Malanville,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 43, ""label"": ""Destination""}]"
+...,UNKNOWN,[]
+Avez-vous des trains pour Lyon Saint-Étienne,NOT_TRIP,[]
+Train schedule please,NOT_FRENCH,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+oklm,UNKNOWN,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+"Ein Zug nach Stuttgart, bitte",NOT_FRENCH,[]
+What time does the train leave?,NOT_FRENCH,[]
+Comment commander un billet Sakété Lyon,NOT_TRIP,[]
+zzz,UNKNOWN,[]
+Je souhaite me déplacer de Parakou à Rouen,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 42, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+Comment commander un billet Besançon Perpignan,NOT_TRIP,[]
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Est-ce que je peux réserver pour Malanville Tours,NOT_TRIP,[]
+oklm,UNKNOWN,[]
+Goedemorgen,NOT_FRENCH,[]
+Guten Tag,NOT_FRENCH,[]
+Comment prendre un billet Lokossa Orléans,NOT_TRIP,[]
+Je rentre à Tchaourou depuis Reims,TRIP,"[{""start"": 29, ""end"": 34, ""label"": ""Departure""}, {""start"": 12, ""end"": 21, ""label"": ""Destination""}]"
+quoi?,UNKNOWN,[]
+Horaires de train Reims - Nancy,NOT_TRIP,[]
+A che ora parte il treno?,NOT_FRENCH,[]
+Thank you very much,NOT_FRENCH,[]
+Trajet de Ouidah à Boulogne-Billancourt pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 39, ""label"": ""Destination""}]"
+Je vais à Ouidah depuis Le Havre cet après-midi,TRIP,"[{""start"": 24, ""end"": 32, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Train schedule please,NOT_FRENCH,[]
+Train schedule please,NOT_FRENCH,[]
+Je souhaite obtenir mon trajet Perpignan vers Limoges,TRIP,"[{""start"": 31, ""end"": 40, ""label"": ""Departure""}, {""start"": 46, ""end"": 53, ""label"": ""Destination""}]"
+Tarifs pour Caen Argenteuil,NOT_TRIP,[]
+Un billet pour Natitingou Bohicon,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Je vais de Savé à Nantes pour affaires,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 24, ""label"": ""Destination""}]"
+J'aimerais aller de Allada à Tchaourou,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 38, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Nantes à Parakou,NOT_TRIP,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+Quel est le numéro du service client,NOT_TRIP,[]
+quoi?,UNKNOWN,[]
+Il reste des places pour Amiens Toulon,NOT_TRIP,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Quel est le prix du billet Bassila Metz,NOT_TRIP,[]
+Necesito ir a Sevilla,NOT_FRENCH,[]
+C'è un treno per Roma?,NOT_FRENCH,[]
+Y a-t-il un train Montreuil-Saint-Étienne,NOT_TRIP,[]
+wxcvbn,UNKNOWN,[]
+bla bla bla,UNKNOWN,[]
+Devo andare a Venezia,NOT_FRENCH,[]
+euh...,UNKNOWN,[]
+De Pobè à Malanville,TRIP,"[{""start"": 3, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 20, ""label"": ""Destination""}]"
+Comment aller de Tchaourou à Marseille,TRIP,"[{""start"": 17, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 38, ""label"": ""Destination""}]"
+Y a-t-il encore de la place Strasbourg - Kétou,NOT_TRIP,[]
+bla bla bla,UNKNOWN,[]
+Pourrais-je avoir un trajet Nikki - Villeurbanne,TRIP,"[{""start"": 28, ""end"": 33, ""label"": ""Departure""}, {""start"": 36, ""end"": 48, ""label"": ""Destination""}]"
+C'est possible d'aller de Comè à Montpellier,TRIP,"[{""start"": 26, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 44, ""label"": ""Destination""}]"
+Perpignan Abomey,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+Puis-je commander un aller simple pour Le Mans Savé,NOT_TRIP,[]
+Bonne journée,NOT_TRIP,[]
+Grazie mille,NOT_FRENCH,[]
+Quels sont les horaires Besançon Grenoble,NOT_TRIP,[]
+de Paris à Angers,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 17, ""label"": ""Destination""}]"
+Puis-je commander un aller simple pour Rouen Natitingou,NOT_TRIP,[]
+Comment aller de Besançon à Le Havre,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 36, ""label"": ""Destination""}]"
+Je voudrais confirmer ma réunion,NOT_TRIP,[]
+Quiero un billete para Madrid,NOT_FRENCH,[]
+De Porto-Novo à Dijon,TRIP,"[{""start"": 3, ""end"": 13, ""label"": ""Departure""}, {""start"": 16, ""end"": 21, ""label"": ""Destination""}]"
+azertyuiop,UNKNOWN,[]
+Goedemorgen,NOT_FRENCH,[]
+Je dois effectuer le trajet Bordeaux Angers,TRIP,"[{""start"": 28, ""end"": 36, ""label"": ""Departure""}, {""start"": 37, ""end"": 43, ""label"": ""Destination""}]"
+Devo andare a Venezia,NOT_FRENCH,[]
+De Angers à Kandi,TRIP,"[{""start"": 3, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Merci de me faire parvenir le rapport,NOT_TRIP,[]
+Il faut que j'aille de Bohicon à Toulon,TRIP,"[{""start"": 23, ""end"": 30, ""label"": ""Departure""}, {""start"": 33, ""end"": 39, ""label"": ""Destination""}]"
+Bonne journée,NOT_TRIP,[]
+De Montreuil jusqu'à Aix-en-Provence,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 36, ""label"": ""Destination""}]"
+Quel est le numéro du service client,NOT_TRIP,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Les horaires pour aller de Limoges à Reims,NOT_TRIP,[]
+Bom dia,NOT_FRENCH,[]
+Tarifs pour Amiens Lokossa,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Kétou vers Comè,TRIP,"[{""start"": 41, ""end"": 46, ""label"": ""Departure""}, {""start"": 52, ""end"": 56, ""label"": ""Destination""}]"
+De Montreuil à Lyon,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 15, ""end"": 19, ""label"": ""Destination""}]"
+De Nîmes jusqu'à Argenteuil,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 17, ""end"": 27, ""label"": ""Destination""}]"
+J'ai besoin d'un compte-rendu,NOT_TRIP,[]
+Je voyage ce soir de Bordeaux vers Dijon,TRIP,"[{""start"": 21, ""end"": 29, ""label"": ""Departure""}, {""start"": 35, ""end"": 40, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Limoges à Brest,TRIP,"[{""start"": 38, ""end"": 45, ""label"": ""Departure""}, {""start"": 48, ""end"": 53, ""label"": ""Destination""}]"
+!!!,UNKNOWN,[]
+Avez-vous des trains pour Lille Lyon,NOT_TRIP,[]
+Comment commander un billet Allada Rouen,NOT_TRIP,[]
+Buenos días,NOT_FRENCH,[]
+Je vais de Mulhouse à Natitingou pour affaires,TRIP,"[{""start"": 11, ""end"": 19, ""label"": ""Departure""}, {""start"": 22, ""end"": 32, ""label"": ""Destination""}]"
+...........,UNKNOWN,[]
+Je rentre à Nikki depuis Dijon,TRIP,"[{""start"": 25, ""end"": 30, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+Quero um bilhete para Porto,NOT_FRENCH,[]
+Pouvez-vous me donner les horaires Nîmes Perpignan,NOT_TRIP,[]
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Je pars demain de Kandi à Perpignan,TRIP,"[{""start"": 18, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 35, ""label"": ""Destination""}]"
+Je désire un trajet de Nikki à Pobè,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 35, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Le Mans à Grenoble,TRIP,"[{""start"": 27, ""end"": 34, ""label"": ""Departure""}, {""start"": 37, ""end"": 45, ""label"": ""Destination""}]"
+Comment puis-je vous contacter,NOT_TRIP,[]
+¿Cuánto cuesta ir a Valencia?,NOT_FRENCH,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Départ: Nantes Destination: Le Havre,TRIP,"[{""start"": 8, ""end"": 14, ""label"": ""Departure""}, {""start"": 28, ""end"": 36, ""label"": ""Destination""}]"
+Il faut que j'aille de Reims à Saint-Étienne,TRIP,"[{""start"": 23, ""end"": 28, ""label"": ""Departure""}, {""start"": 31, ""end"": 44, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Annecy à Bordeaux,NOT_TRIP,[]
+Un billet pour Metz Bordeaux,NOT_TRIP,[]
+Un billet pour Paris Bassila,NOT_TRIP,[]
+Montpellier → Ouidah,TRIP,"[{""start"": 0, ""end"": 11, ""label"": ""Departure""}, {""start"": 14, ""end"": 20, ""label"": ""Destination""}]"
+Je pars de Lille vers Parakou pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 22, ""end"": 29, ""label"": ""Destination""}]"
+Je veux aller de Allada à Perpignan,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 35, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Dijon à Le Havre,NOT_TRIP,[]
+depuis Brest jusqu'à Nantes,TRIP,"[{""start"": 7, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 27, ""label"": ""Destination""}]"
+Un billet pour Toulon Saint-Étienne,NOT_TRIP,[]
+Cotonou → Marseille,TRIP,"[{""start"": 0, ""end"": 7, ""label"": ""Departure""}, {""start"": 10, ""end"": 19, ""label"": ""Destination""}]"
+Wann fährt der Zug ab?,NOT_FRENCH,[]
+Preciso ir a Braga,NOT_FRENCH,[]
+Trajet Montpellier → Toulouse,TRIP,"[{""start"": 7, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 29, ""label"": ""Destination""}]"
+Abomey / Brest,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 14, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Parakou - Nice,TRIP,"[{""start"": 28, ""end"": 35, ""label"": ""Departure""}, {""start"": 38, ""end"": 42, ""label"": ""Destination""}]"
+Is there a train to London?,NOT_FRENCH,[]
+Aller de Brest vers Aix-en-Provence,TRIP,"[{""start"": 9, ""end"": 14, ""label"": ""Departure""}, {""start"": 20, ""end"": 35, ""label"": ""Destination""}]"
+Je compte partir de Sakété vers Orléans,TRIP,"[{""start"": 20, ""end"": 26, ""label"": ""Departure""}, {""start"": 32, ""end"": 39, ""label"": ""Destination""}]"
+¿Cómo llegar a Málaga?,NOT_FRENCH,[]
+Y a-t-il encore de la place Nikki - Lille,NOT_TRIP,[]
+Est-ce que je peux réserver pour Bordeaux Tchaourou,NOT_TRIP,[]
+Buongiorno,NOT_FRENCH,[]
+Je souhaite obtenir mon trajet Boulogne-Billancourt vers Bordeaux,TRIP,"[{""start"": 31, ""end"": 51, ""label"": ""Departure""}, {""start"": 57, ""end"": 65, ""label"": ""Destination""}]"
+Avez-vous des places disponibles pour Sakété Saint-Denis,NOT_TRIP,[]
+Tarifs pour Cotonou Montreuil,NOT_TRIP,[]
+Je rentre à Tours depuis Montreuil,TRIP,"[{""start"": 25, ""end"": 34, ""label"": ""Departure""}, {""start"": 12, ""end"": 17, ""label"": ""Destination""}]"
+hahaha,UNKNOWN,[]
+Je rentre à Metz depuis Toulon,TRIP,"[{""start"": 24, ""end"": 30, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+lol lol lol,UNKNOWN,[]
+Porto-Novo → Paris,TRIP,"[{""start"": 0, ""end"": 10, ""label"": ""Departure""}, {""start"": 13, ""end"": 18, ""label"": ""Destination""}]"
+Les horaires pour aller de Limoges à Lyon,NOT_TRIP,[]
+Combien coûte Perpignan - Angers,NOT_TRIP,[]
+Je me déplace la semaine prochaine de Montpellier à Tchaourou,TRIP,"[{""start"": 38, ""end"": 49, ""label"": ""Departure""}, {""start"": 52, ""end"": 61, ""label"": ""Destination""}]"
+Marseille - Savé,TRIP,"[{""start"": 0, ""end"": 9, ""label"": ""Departure""}, {""start"": 12, ""end"": 16, ""label"": ""Destination""}]"
+Je dois aller de Parakou à Savé pour raison professionnelle,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 31, ""label"": ""Destination""}]"
+Comment aller de Lille à Angers,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 31, ""label"": ""Destination""}]"
+Je souhaite me déplacer de Comè à Reims,TRIP,"[{""start"": 27, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Trajet de Besançon à Grenoble pour raison personnelle,TRIP,"[{""start"": 10, ""end"": 18, ""label"": ""Departure""}, {""start"": 21, ""end"": 29, ""label"": ""Destination""}]"
+À quelle heure y a-t-il des trains de Boulogne-Billancourt à Porto-Novo,NOT_TRIP,[]
+Trains disponibles Amiens → Tchaourou,NOT_TRIP,[]
+J'aimerais aller de Pobè à Caen,TRIP,"[{""start"": 20, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 31, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Aller de Kétou vers Lille,TRIP,"[{""start"": 9, ""end"": 14, ""label"": ""Departure""}, {""start"": 20, ""end"": 25, ""label"": ""Destination""}]"
+Buenos días,NOT_FRENCH,[]
+Nice Montreuil,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 5, ""end"": 14, ""label"": ""Destination""}]"
+Quanto custa ir a Coimbra?,NOT_FRENCH,[]
+Il reste des places pour Malanville Boulogne-Billancourt,NOT_TRIP,[]
+Billet de Ouidah à Nîmes,NOT_TRIP,[]
+Ich muss nach Frankfurt,NOT_FRENCH,[]
+I need to go to Birmingham,NOT_FRENCH,[]
+Kandi - Perpignan,TRIP,"[{""start"": 0, ""end"": 5, ""label"": ""Departure""}, {""start"": 8, ""end"": 17, ""label"": ""Destination""}]"
+wxcvbn,UNKNOWN,[]
+Comment prendre un billet Perpignan Cotonou,NOT_TRIP,[]
+lol lol lol,UNKNOWN,[]
+depuis Boulogne-Billancourt jusqu'à Cotonou,TRIP,"[{""start"": 7, ""end"": 27, ""label"": ""Departure""}, {""start"": 36, ""end"": 43, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Villeurbanne vers Cotonou,TRIP,"[{""start"": 41, ""end"": 53, ""label"": ""Departure""}, {""start"": 59, ""end"": 66, ""label"": ""Destination""}]"
+Comment aller de Djougou à Orléans,TRIP,"[{""start"": 17, ""end"": 24, ""label"": ""Departure""}, {""start"": 27, ""end"": 34, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+Aix-en-Provence → Bassila,TRIP,"[{""start"": 0, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 25, ""label"": ""Destination""}]"
+Toulon - Dijon,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 14, ""label"": ""Destination""}]"
+Je pars demain de Dijon à Bohicon,TRIP,"[{""start"": 18, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 33, ""label"": ""Destination""}]"
+Horarios de tren por favor,NOT_FRENCH,[]
+hahaha,UNKNOWN,[]
+Há um comboio para Lisboa?,NOT_FRENCH,[]
+Tarifs pour Saint-Étienne Parakou,NOT_TRIP,[]
+Je souhaite me déplacer de Metz à Brest,TRIP,"[{""start"": 27, ""end"": 31, ""label"": ""Departure""}, {""start"": 34, ""end"": 39, ""label"": ""Destination""}]"
+Quanto costa andare a Firenze?,NOT_FRENCH,[]
+Horaires de train Dijon - Abomey,NOT_TRIP,[]
+Merci pour votre aide,NOT_TRIP,[]
+Hoe laat vertrekt de trein?,NOT_FRENCH,[]
+lol lol lol,UNKNOWN,[]
+¿Hay un tren a Barcelona?,NOT_FRENCH,[]
+Pouvez-vous me donner les horaires Toulouse Lille,NOT_TRIP,[]
+Il faut que j'aille de Ouidah à Bordeaux,TRIP,"[{""start"": 23, ""end"": 29, ""label"": ""Departure""}, {""start"": 32, ""end"": 40, ""label"": ""Destination""}]"
+Je vais à Perpignan depuis Montpellier cet après-midi,TRIP,"[{""start"": 27, ""end"": 38, ""label"": ""Departure""}, {""start"": 10, ""end"": 19, ""label"": ""Destination""}]"
+De Saint-Étienne jusqu'à Perpignan,TRIP,"[{""start"": 3, ""end"": 16, ""label"": ""Departure""}, {""start"": 25, ""end"": 34, ""label"": ""Destination""}]"
+Je vais de Lyon à Comè pour affaires,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 18, ""end"": 22, ""label"": ""Destination""}]"
+Grazie mille,NOT_FRENCH,[]
+Is there a train to London?,NOT_FRENCH,[]
+hahaha,UNKNOWN,[]
+Réservation Perpignan → Marseille,NOT_TRIP,[]
+de Paris à Metz,TRIP,"[{""start"": 3, ""end"": 8, ""label"": ""Departure""}, {""start"": 11, ""end"": 15, ""label"": ""Destination""}]"
+Pouvez-vous me trouver un train de Parakou à Villeurbanne,NOT_TRIP,[]
+Je désire un aller-retour de Lyon vers Aix-en-Provence,NOT_TRIP,[]
+Je pars demain de Lokossa à Ouidah,TRIP,"[{""start"": 18, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 34, ""label"": ""Destination""}]"
+Quels sont les horaires de train pour Strasbourg Grenoble,NOT_TRIP,[]
+Je pars de Comè vers Paris pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 26, ""label"": ""Destination""}]"
+Je me déplace la semaine prochaine de Parakou à Lyon,TRIP,"[{""start"": 38, ""end"": 45, ""label"": ""Departure""}, {""start"": 48, ""end"": 52, ""label"": ""Destination""}]"
+Je pars de Lyon vers Clermont-Ferrand pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 15, ""label"": ""Departure""}, {""start"": 21, ""end"": 37, ""label"": ""Destination""}]"
+Pourrais-je avoir un trajet Marseille - Savé,TRIP,"[{""start"": 28, ""end"": 37, ""label"": ""Departure""}, {""start"": 40, ""end"": 44, ""label"": ""Destination""}]"
+Trajet Aix-en-Provence → Saint-Étienne,TRIP,"[{""start"": 7, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 38, ""label"": ""Destination""}]"
+Il faut que j'aille de Perpignan à Savé,TRIP,"[{""start"": 23, ""end"": 32, ""label"": ""Departure""}, {""start"": 35, ""end"": 39, ""label"": ""Destination""}]"
+Quels sont les horaires de train pour Angers Natitingou,NOT_TRIP,[]
+Boulogne-Billancourt / Bohicon,TRIP,"[{""start"": 0, ""end"": 20, ""label"": ""Departure""}, {""start"": 23, ""end"": 30, ""label"": ""Destination""}]"
+Tarifs pour Marseille Lyon,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Savé vers Nikki,TRIP,"[{""start"": 41, ""end"": 45, ""label"": ""Departure""}, {""start"": 51, ""end"": 56, ""label"": ""Destination""}]"
+De Grenoble jusqu'à Malanville,TRIP,"[{""start"": 3, ""end"": 11, ""label"": ""Departure""}, {""start"": 20, ""end"": 30, ""label"": ""Destination""}]"
+!!!,UNKNOWN,[]
+Can you help me find a train?,NOT_FRENCH,[]
+À quelle heure y a-t-il des trains de Mulhouse à Nîmes,NOT_TRIP,[]
+Gibt es einen Zug nach Berlin?,NOT_FRENCH,[]
+Horaires de train Metz - Djougou,NOT_TRIP,[]
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+What time does the train leave?,NOT_FRENCH,[]
+hein?,UNKNOWN,[]
+Comment aller de Paris à Tchaourou,TRIP,"[{""start"": 17, ""end"": 22, ""label"": ""Departure""}, {""start"": 25, ""end"": 34, ""label"": ""Destination""}]"
+qsdfghjklm,UNKNOWN,[]
+Je vais de Annecy à Bassila pour affaires,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 27, ""label"": ""Destination""}]"
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Je dois me rendre de Nancy à Le Mans,TRIP,"[{""start"": 21, ""end"": 26, ""label"": ""Departure""}, {""start"": 29, ""end"": 36, ""label"": ""Destination""}]"
+hahaha,UNKNOWN,[]
+Pouvez-vous me rappeler demain,NOT_TRIP,[]
+Je dois effectuer le trajet Angers Cotonou,TRIP,"[{""start"": 28, ""end"": 34, ""label"": ""Departure""}, {""start"": 35, ""end"": 42, ""label"": ""Destination""}]"
+Bom dia,NOT_FRENCH,[]
+Wie viel kostet es nach Hamburg?,NOT_FRENCH,[]
+Je vais de Allada à Mulhouse pour affaires,TRIP,"[{""start"": 11, ""end"": 17, ""label"": ""Departure""}, {""start"": 20, ""end"": 28, ""label"": ""Destination""}]"
+Je veux un billet Nîmes Orléans,NOT_TRIP,[]
+depuis Allada jusqu'à Parakou,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 29, ""label"": ""Destination""}]"
+What time does the train leave?,NOT_FRENCH,[]
+Je voudrais réserver Orléans Nantes,NOT_TRIP,[]
+Je veux aller de Le Havre à Djougou,TRIP,"[{""start"": 17, ""end"": 25, ""label"": ""Departure""}, {""start"": 28, ""end"": 35, ""label"": ""Destination""}]"
+De Montreuil jusqu'à Tchaourou,TRIP,"[{""start"": 3, ""end"": 12, ""label"": ""Departure""}, {""start"": 21, ""end"": 30, ""label"": ""Destination""}]"
+J'aimerais aller de Lokossa à Caen,TRIP,"[{""start"": 20, ""end"": 27, ""label"": ""Departure""}, {""start"": 30, ""end"": 34, ""label"": ""Destination""}]"
+Pouvez-vous me transférer le document,NOT_TRIP,[]
+Je vais de Nancy à Nice pour affaires,TRIP,"[{""start"": 11, ""end"": 16, ""label"": ""Departure""}, {""start"": 19, ""end"": 23, ""label"": ""Destination""}]"
+Pouvez-vous me donner un billet de Bordeaux à Dijon,NOT_TRIP,[]
+Pobè / Rouen,TRIP,"[{""start"": 0, ""end"": 4, ""label"": ""Departure""}, {""start"": 7, ""end"": 12, ""label"": ""Destination""}]"
+Je désire un aller-retour de Rouen vers Nikki,NOT_TRIP,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+Quel est le meilleur moyen pour aller de Djougou vers Montpellier,TRIP,"[{""start"": 41, ""end"": 48, ""label"": ""Departure""}, {""start"": 54, ""end"": 65, ""label"": ""Destination""}]"
+Trains disponibles Clermont-Ferrand → Lokossa,NOT_TRIP,[]
+Vorrei un biglietto per Milano,NOT_FRENCH,[]
+Obrigado,NOT_FRENCH,[]
+Je veux aller de Angers à Bassila,TRIP,"[{""start"": 17, ""end"": 23, ""label"": ""Departure""}, {""start"": 26, ""end"": 33, ""label"": ""Destination""}]"
+Je pars de Argenteuil vers Bassila pour voir ma famille,TRIP,"[{""start"": 11, ""end"": 21, ""label"": ""Departure""}, {""start"": 27, ""end"": 34, ""label"": ""Destination""}]"
+Horaires de train Tchaourou - Sakété,NOT_TRIP,[]
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Départ: Brest Destination: Lyon,TRIP,"[{""start"": 8, ""end"": 13, ""label"": ""Departure""}, {""start"": 27, ""end"": 31, ""label"": ""Destination""}]"
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Tarifs pour Pobè Nantes,NOT_TRIP,[]
+Je cherche un train Bohicon Rennes,NOT_TRIP,[]
+Quels trains sont disponibles de Parakou à Grenoble,NOT_TRIP,[]
+Toulon / Metz,TRIP,"[{""start"": 0, ""end"": 6, ""label"": ""Departure""}, {""start"": 9, ""end"": 13, ""label"": ""Destination""}]"
+Obrigado,NOT_FRENCH,[]
+Je compte partir de Tchaourou vers Marseille,TRIP,"[{""start"": 20, ""end"": 29, ""label"": ""Departure""}, {""start"": 35, ""end"": 44, ""label"": ""Destination""}]"
+Comment commander un billet Savé Abomey,NOT_TRIP,[]
+Je vais à Nantes depuis Strasbourg cet après-midi,TRIP,"[{""start"": 24, ""end"": 34, ""label"": ""Departure""}, {""start"": 10, ""end"": 16, ""label"": ""Destination""}]"
+depuis Toulon jusqu'à Annecy,TRIP,"[{""start"": 7, ""end"": 13, ""label"": ""Departure""}, {""start"": 22, ""end"": 28, ""label"": ""Destination""}]"
+Ik wil een ticket naar Rotterdam,NOT_FRENCH,[]
+Je désire un aller-retour de Nikki vers Nîmes,NOT_TRIP,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Comment puis-je vous contacter,NOT_TRIP,[]
+À quelle heure part le train de Reims à Porto-Novo,NOT_TRIP,[]
+Prix du trajet Nancy Djougou,NOT_TRIP,[]
+Réservation Saint-Étienne → Kandi,NOT_TRIP,[]
+How much does it cost to go to Edinburgh?,NOT_FRENCH,[]
+Un billet pour Strasbourg Savé,NOT_TRIP,[]
