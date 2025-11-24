@@ -4,3 +4,7 @@ evaluate
 seqeval
 tokenizers
 sacrebleu
+numpy
+scipy
+matplotlib
+librosa
